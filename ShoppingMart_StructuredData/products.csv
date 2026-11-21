@@ -1,51 +1,121 @@
-ProductID,ProductName,Category,Stock,UnitPrice
-PROD200,Suit,Fashion,83,979.95
-PROD201,Ball,Sports,325,218.04
-PROD202,Jeans,Fashion,314,354.52
-PROD203,Computer,Electronics,486,608.34
-PROD204,DiningTable,Home Goods,236,900.27
-PROD205,Tshirt,Fashion,164,47.19
-PROD206,Chair,Home Goods,367,194.85
-PROD207,DesignerBag,Fashion,261,398.82
-PROD208,Sofa,Home Goods,297,643.2
-PROD209,Socks,Sports,142,25.57
-PROD210,Bed,Home Goods,351,810.63
-PROD211,Shoes,Fashion,478,49.04
-PROD212,GolfKit,Sports,140,835.29
-PROD213,Ring,Fashion,356,597.96
-PROD214,Watch,Electronics,471,186.96
-PROD215,MakeupKit,Fashion,186,517.38
-PROD216,SkiSuit,Sports,240,295.03
-PROD217,Necklace,Fashion,490,459.04
-PROD218,SwimSuit,Sports,120,73.25
-PROD219,Chair,Home Goods,194,342.35
-PROD220,HikingKit,Sports,272,448.13
-PROD221,Ipad,Electronics,294,675.37
-PROD222,NikeShoes,Sports,33,190.59
-PROD223,Bike,Sports,355,598.09
-PROD224,Kettle,Electronics,202,568.24
-PROD225,LaptopLenova,Electronics,199,808.88
-PROD226,Speaker,Electronics,345,216.05
-PROD227,Baseball,Sports,241,313.75
-PROD228,Window Coverings,Home Goods,21,513.36
-PROD229,GameJersey,Sports,80,307.9
-PROD230,Sunglasses,Fashion,319,587.25
-PROD231,Storage Bins,Home Goods,310,267.06
-PROD232,LightFixture,Home Goods,131,289.76
-PROD233,Carpet,Home Goods,208,950.54
-PROD234,Dinner,Electronics,406,931.09
-PROD235,Bedsheet,Home Goods,427,171.5
-PROD236,16carat Gold ring,Fashion,461,745.26
-PROD237,FitnessWatchBlack,Electronics,120,224.53
-PROD238,BookCase,Home Goods,443,778.13
-PROD239,Camera,Electronics,467,366.52
-PROD240,BabyStroller,Fashion,269,515.16
-PROD241,TreadMill,Electronics,182,786.72
-PROD242,GoKart,Sports,108,485.7
-PROD243,Monitor,Electronics,256,557.19
-PROD244,Trousers,Fashion,151,285.87
-PROD245,LawnMower,Home Goods,203,748.84
-PROD246,SkiBoots,Sports,244,703.13
-PROD247,Mattress,Home Goods,425,716.17
-PROD248,BallPit,Sports,382,122.29
-PROD249,CoffeeTable,Home Goods,120,418.67
+ProductID,ProductName,ProductCategory,SubCategory,Brand,PackageUnit,Stock,UnitPrice,IsActive
+PROD200,KongaSip Carbonated Pack of 12 #1,Beverages,Carbonated Soft Drinks,KongaSip,Pack of 12 (50cl),83,979.95,TRUE
+PROD201,NaijaBrew Bottled Pack of 24 #2,Beverages,Bottled Water,NaijaBrew,Pack of 24 (75cl),325,218.04,TRUE
+PROD202,TropiFresh Fruit Carton of 20 #3,Beverages,Fruit Juices,TropiFresh,Carton of 20 (33cl),314,354.52,TRUE
+PROD203,KongaSip Malt Pack of 6 #4,Beverages,Malt & Energy,KongaSip,Pack of 6 (1L),486,608.34,TRUE
+PROD204,NaijaBrew Carbonated Pack of 12 #5,Beverages,Carbonated Soft Drinks,NaijaBrew,Pack of 12 (50cl),236,900.27,TRUE
+PROD205,TropiFresh Bottled Pack of 24 #6,Beverages,Bottled Water,TropiFresh,Pack of 24 (75cl),164,47.19,TRUE
+PROD206,KongaSip Fruit Carton of 20 #7,Beverages,Fruit Juices,KongaSip,Carton of 20 (33cl),367,194.85,FALSE
+PROD207,NaijaBrew Malt Pack of 6 #8,Beverages,Malt & Energy,NaijaBrew,Pack of 6 (1L),261,398.82,TRUE
+PROD208,TropiFresh Carbonated Pack of 12 #9,Beverages,Carbonated Soft Drinks,TropiFresh,Pack of 12 (50cl),297,643.2,TRUE
+PROD209,KongaSip Bottled Pack of 24 #10,Beverages,Bottled Water,KongaSip,Pack of 24 (75cl),142,25.57,TRUE
+PROD210,NaijaBrew Fruit Carton of 20 #11,Beverages,Fruit Juices,NaijaBrew,Carton of 20 (33cl),351,810.63,TRUE
+PROD211,TropiFresh Malt Pack of 6 #12,Beverages,Malt & Energy,TropiFresh,Pack of 6 (1L),478,49.04,TRUE
+PROD212,KongaSip Carbonated Pack of 12 #13,Beverages,Carbonated Soft Drinks,KongaSip,Pack of 12 (50cl),140,835.29,FALSE
+PROD213,NaijaBrew Bottled Pack of 24 #14,Beverages,Bottled Water,NaijaBrew,Pack of 24 (75cl),356,597.96,TRUE
+PROD214,TropiFresh Fruit Carton of 20 #15,Beverages,Fruit Juices,TropiFresh,Carton of 20 (33cl),471,186.96,TRUE
+PROD215,KongaSip Malt Pack of 6 #16,Beverages,Malt & Energy,KongaSip,Pack of 6 (1L),186,517.38,TRUE
+PROD216,NaijaBrew Carbonated Pack of 12 #17,Beverages,Carbonated Soft Drinks,NaijaBrew,Pack of 12 (50cl),240,295.03,TRUE
+PROD217,TropiFresh Bottled Pack of 24 #18,Beverages,Bottled Water,TropiFresh,Pack of 24 (75cl),490,459.04,TRUE
+PROD218,KongaSip Fruit Carton of 20 #19,Beverages,Fruit Juices,KongaSip,Carton of 20 (33cl),120,73.25,TRUE
+PROD219,NaijaBrew Malt Pack of 6 #20,Beverages,Malt & Energy,NaijaBrew,Pack of 6 (1L),194,342.35,TRUE
+PROD220,TropiFresh Carbonated Pack of 12 #21,Beverages,Carbonated Soft Drinks,TropiFresh,Pack of 12 (50cl),272,448.13,TRUE
+PROD221,KongaSip Bottled Pack of 24 #22,Beverages,Bottled Water,KongaSip,Pack of 24 (75cl),294,675.37,TRUE
+PROD222,NaijaBrew Fruit Carton of 20 #23,Beverages,Fruit Juices,NaijaBrew,Carton of 20 (33cl),33,190.59,TRUE
+PROD223,TropiFresh Malt Pack of 6 #24,Beverages,Malt & Energy,TropiFresh,Pack of 6 (1L),355,598.09,TRUE
+PROD224,SavannaFoods Seasonings Carton of 40 #25,Food Products,Seasonings & Spices,SavannaFoods,Carton of 40,202,568.24,TRUE
+PROD225,GoldenHarvest Pasta Bag of 10kg #26,Food Products,Pasta & Noodles,GoldenHarvest,Bag of 10kg,199,808.88,TRUE
+PROD226,OduaGrains Cooking Case of 12 #27,Food Products,Cooking Oils,OduaGrains,Case of 12 (1L),345,216.05,TRUE
+PROD227,SavannaFoods Breakfast Carton of 24 #28,Food Products,Breakfast Cereals,SavannaFoods,Carton of 24,241,313.75,TRUE
+PROD228,GoldenHarvest Seasonings Carton of 40 #29,Food Products,Seasonings & Spices,GoldenHarvest,Carton of 40,21,513.36,TRUE
+PROD229,OduaGrains Pasta Bag of 10kg #30,Food Products,Pasta & Noodles,OduaGrains,Bag of 10kg,80,307.9,TRUE
+PROD230,SavannaFoods Cooking Case of 12 #31,Food Products,Cooking Oils,SavannaFoods,Case of 12 (1L),319,587.25,TRUE
+PROD231,GoldenHarvest Breakfast Carton of 24 #32,Food Products,Breakfast Cereals,GoldenHarvest,Carton of 24,310,267.06,TRUE
+PROD232,OduaGrains Seasonings Carton of 40 #33,Food Products,Seasonings & Spices,OduaGrains,Carton of 40,131,289.76,TRUE
+PROD233,SavannaFoods Pasta Bag of 10kg #34,Food Products,Pasta & Noodles,SavannaFoods,Bag of 10kg,208,950.54,FALSE
+PROD234,GoldenHarvest Cooking Case of 12 #35,Food Products,Cooking Oils,GoldenHarvest,Case of 12 (1L),406,931.09,TRUE
+PROD235,OduaGrains Breakfast Carton of 24 #36,Food Products,Breakfast Cereals,OduaGrains,Carton of 24,427,171.5,TRUE
+PROD236,SavannaFoods Seasonings Carton of 40 #37,Food Products,Seasonings & Spices,SavannaFoods,Carton of 40,461,745.26,TRUE
+PROD237,GoldenHarvest Pasta Bag of 10kg #38,Food Products,Pasta & Noodles,GoldenHarvest,Bag of 10kg,120,224.53,TRUE
+PROD238,OduaGrains Cooking Case of 12 #39,Food Products,Cooking Oils,OduaGrains,Case of 12 (1L),443,778.13,TRUE
+PROD239,SavannaFoods Breakfast Carton of 24 #40,Food Products,Breakfast Cereals,SavannaFoods,Carton of 24,467,366.52,TRUE
+PROD240,GoldenHarvest Seasonings Carton of 40 #41,Food Products,Seasonings & Spices,GoldenHarvest,Carton of 40,269,515.16,FALSE
+PROD241,OduaGrains Pasta Bag of 10kg #42,Food Products,Pasta & Noodles,OduaGrains,Bag of 10kg,182,786.72,TRUE
+PROD242,SavannaFoods Cooking Case of 12 #43,Food Products,Cooking Oils,SavannaFoods,Case of 12 (1L),108,485.7,TRUE
+PROD243,GoldenHarvest Breakfast Carton of 24 #44,Food Products,Breakfast Cereals,GoldenHarvest,Carton of 24,256,557.19,FALSE
+PROD244,OduaGrains Seasonings Carton of 40 #45,Food Products,Seasonings & Spices,OduaGrains,Carton of 40,151,285.87,TRUE
+PROD245,SavannaFoods Pasta Bag of 10kg #46,Food Products,Pasta & Noodles,SavannaFoods,Bag of 10kg,203,748.84,TRUE
+PROD246,GoldenHarvest Cooking Case of 12 #47,Food Products,Cooking Oils,GoldenHarvest,Case of 12 (1L),244,703.13,TRUE
+PROD247,OduaGrains Breakfast Carton of 24 #48,Food Products,Breakfast Cereals,OduaGrains,Carton of 24,425,716.17,TRUE
+PROD248,MeadowBrook Evaporated Carton of 24 #49,Dairy,Evaporated & Powdered Milk,MeadowBrook,Carton of 24 (170g),382,122.29,TRUE
+PROD249,Afrimilk Yoghurt Pack of 12 #50,Dairy,Yoghurt & Drinks,Afrimilk,Pack of 12 (500ml),120,418.67,TRUE
+PROD250,PureCream Cheese Tin of 900g #51,Dairy,Cheese & Butter,PureCream,Tin of 900g,120,979.95,TRUE
+PROD251,MeadowBrook Infant Carton of 18 #52,Dairy,Infant & Fortified Dairy,MeadowBrook,Carton of 18,194,218.04,TRUE
+PROD252,Afrimilk Evaporated Carton of 24 #53,Dairy,Evaporated & Powdered Milk,Afrimilk,Carton of 24 (170g),272,354.52,TRUE
+PROD253,PureCream Yoghurt Pack of 12 #54,Dairy,Yoghurt & Drinks,PureCream,Pack of 12 (500ml),294,608.34,TRUE
+PROD254,MeadowBrook Cheese Tin of 900g #55,Dairy,Cheese & Butter,MeadowBrook,Tin of 900g,33,900.27,TRUE
+PROD255,Afrimilk Infant Carton of 18 #56,Dairy,Infant & Fortified Dairy,Afrimilk,Carton of 18,355,47.19,TRUE
+PROD256,PureCream Evaporated Carton of 24 #57,Dairy,Evaporated & Powdered Milk,PureCream,Carton of 24 (170g),202,194.85,TRUE
+PROD257,MeadowBrook Yoghurt Pack of 12 #58,Dairy,Yoghurt & Drinks,MeadowBrook,Pack of 12 (500ml),199,398.82,TRUE
+PROD258,Afrimilk Cheese Tin of 900g #59,Dairy,Cheese & Butter,Afrimilk,Tin of 900g,345,643.2,TRUE
+PROD259,PureCream Infant Carton of 18 #60,Dairy,Infant & Fortified Dairy,PureCream,Carton of 18,241,25.57,TRUE
+PROD260,MeadowBrook Evaporated Carton of 24 #61,Dairy,Evaporated & Powdered Milk,MeadowBrook,Carton of 24 (170g),21,810.63,TRUE
+PROD261,Afrimilk Yoghurt Pack of 12 #62,Dairy,Yoghurt & Drinks,Afrimilk,Pack of 12 (500ml),80,49.04,TRUE
+PROD262,PureCream Cheese Tin of 900g #63,Dairy,Cheese & Butter,PureCream,Tin of 900g,319,835.29,TRUE
+PROD263,MeadowBrook Infant Carton of 18 #64,Dairy,Infant & Fortified Dairy,MeadowBrook,Carton of 18,310,597.96,TRUE
+PROD264,Afrimilk Evaporated Carton of 24 #65,Dairy,Evaporated & Powdered Milk,Afrimilk,Carton of 24 (170g),131,598.09,TRUE
+PROD265,PureCream Yoghurt Pack of 12 #66,Dairy,Yoghurt & Drinks,PureCream,Pack of 12 (500ml),208,568.24,TRUE
+PROD266,MeadowBrook Cheese Tin of 900g #67,Dairy,Cheese & Butter,MeadowBrook,Tin of 900g,406,808.88,TRUE
+PROD267,Afrimilk Infant Carton of 18 #68,Dairy,Infant & Fortified Dairy,Afrimilk,Carton of 18,427,216.05,TRUE
+PROD268,PureCream Evaporated Carton of 24 #69,Dairy,Evaporated & Powdered Milk,PureCream,Carton of 24 (170g),461,313.75,TRUE
+PROD269,MeadowBrook Yoghurt Pack of 12 #70,Dairy,Yoghurt & Drinks,MeadowBrook,Pack of 12 (500ml),120,513.36,TRUE
+PROD270,Afrimilk Cheese Tin of 900g #71,Dairy,Cheese & Butter,Afrimilk,Tin of 900g,443,307.9,TRUE
+PROD271,PureCream Infant Carton of 18 #72,Dairy,Infant & Fortified Dairy,PureCream,Carton of 18,467,587.25,TRUE
+PROD272,EkoGlow Bath Carton of 72 #73,Personal Care,Bath Soaps & Gels,EkoGlow,Carton of 72,269,267.06,TRUE
+PROD273,ZariaCare Oral Pack of 24 #74,Personal Care,Oral Care,ZariaCare,Pack of 24,182,289.76,TRUE
+PROD274,SheaRadiance Hair Case of 36 #75,Personal Care,Hair & Skin Lotions,SheaRadiance,Case of 36,108,950.54,TRUE
+PROD275,EkoGlow Deodorants Carton of 48 #76,Personal Care,Deodorants & Fragrances,EkoGlow,Carton of 48,256,931.09,TRUE
+PROD276,ZariaCare Bath Carton of 72 #77,Personal Care,Bath Soaps & Gels,ZariaCare,Carton of 72,151,171.5,TRUE
+PROD277,SheaRadiance Oral Pack of 24 #78,Personal Care,Oral Care,SheaRadiance,Pack of 24,203,745.26,TRUE
+PROD278,EkoGlow Hair Case of 36 #79,Personal Care,Hair & Skin Lotions,EkoGlow,Case of 36,244,224.53,TRUE
+PROD279,ZariaCare Deodorants Carton of 48 #80,Personal Care,Deodorants & Fragrances,ZariaCare,Carton of 48,425,778.13,TRUE
+PROD280,SheaRadiance Bath Carton of 72 #81,Personal Care,Bath Soaps & Gels,SheaRadiance,Carton of 72,382,366.52,TRUE
+PROD281,EkoGlow Oral Pack of 24 #82,Personal Care,Oral Care,EkoGlow,Pack of 24,120,515.16,TRUE
+PROD282,ZariaCare Hair Case of 36 #83,Personal Care,Hair & Skin Lotions,ZariaCare,Case of 36,83,786.72,TRUE
+PROD283,SheaRadiance Deodorants Carton of 48 #84,Personal Care,Deodorants & Fragrances,SheaRadiance,Carton of 48,325,485.7,TRUE
+PROD284,EkoGlow Bath Carton of 72 #85,Personal Care,Bath Soaps & Gels,EkoGlow,Carton of 72,314,557.19,TRUE
+PROD285,ZariaCare Oral Pack of 24 #86,Personal Care,Oral Care,ZariaCare,Pack of 24,486,285.87,TRUE
+PROD286,SheaRadiance Hair Case of 36 #87,Personal Care,Hair & Skin Lotions,SheaRadiance,Case of 36,236,748.84,TRUE
+PROD287,EkoGlow Deodorants Carton of 48 #88,Personal Care,Deodorants & Fragrances,EkoGlow,Carton of 48,164,703.13,TRUE
+PROD288,ZariaCare Bath Carton of 72 #89,Personal Care,Bath Soaps & Gels,ZariaCare,Carton of 72,367,716.17,TRUE
+PROD289,SheaRadiance Oral Pack of 24 #90,Personal Care,Oral Care,SheaRadiance,Pack of 24,261,122.29,TRUE
+PROD290,EkoGlow Hair Case of 36 #91,Personal Care,Hair & Skin Lotions,EkoGlow,Case of 36,297,979.95,TRUE
+PROD291,ZariaCare Deodorants Carton of 48 #92,Personal Care,Deodorants & Fragrances,ZariaCare,Carton of 48,142,218.04,TRUE
+PROD292,SheaRadiance Bath Carton of 72 #93,Personal Care,Bath Soaps & Gels,SheaRadiance,Carton of 72,351,354.52,TRUE
+PROD293,EkoGlow Oral Pack of 24 #94,Personal Care,Oral Care,EkoGlow,Pack of 24,478,608.34,TRUE
+PROD294,ZariaCare Hair Case of 36 #95,Personal Care,Hair & Skin Lotions,ZariaCare,Case of 36,140,900.27,TRUE
+PROD295,SheaRadiance Deodorants Carton of 48 #96,Personal Care,Deodorants & Fragrances,SheaRadiance,Carton of 48,356,47.19,TRUE
+PROD296,CleanSwift Laundry Bag of 20 #97,Household Products,Laundry Detergents,CleanSwift,Bag of 20 (500g),471,194.85,TRUE
+PROD297,DeltaHome Dishwashing Carton of 24 #98,Household Products,Dishwashing Liquids,DeltaHome,Carton of 24 (500ml),186,398.82,TRUE
+PROD298,SparkleGuard Surface Jerrycan of 4L #99,Household Products,Surface Disinfectants,SparkleGuard,Jerrycan of 4L,240,643.2,TRUE
+PROD299,CleanSwift Tissues Bale of 24 #100,Household Products,Tissues & Home Care,CleanSwift,Bale of 24,490,25.57,TRUE
+PROD300,DeltaHome Laundry Bag of 20 #101,Household Products,Laundry Detergents,DeltaHome,Bag of 20 (500g),120,810.63,TRUE
+PROD301,SparkleGuard Dishwashing Carton of 24 #102,Household Products,Dishwashing Liquids,SparkleGuard,Carton of 24 (500ml),194,49.04,TRUE
+PROD302,CleanSwift Surface Jerrycan of 4L #103,Household Products,Surface Disinfectants,CleanSwift,Jerrycan of 4L,272,835.29,TRUE
+PROD303,DeltaHome Tissues Bale of 24 #104,Household Products,Tissues & Home Care,DeltaHome,Bale of 24,294,597.96,TRUE
+PROD304,SparkleGuard Laundry Bag of 20 #105,Household Products,Laundry Detergents,SparkleGuard,Bag of 20 (500g),33,186.96,TRUE
+PROD305,CleanSwift Dishwashing Carton of 24 #106,Household Products,Dishwashing Liquids,CleanSwift,Carton of 24 (500ml),355,517.38,TRUE
+PROD306,DeltaHome Surface Jerrycan of 4L #107,Household Products,Surface Disinfectants,DeltaHome,Jerrycan of 4L,202,295.03,TRUE
+PROD307,SparkleGuard Tissues Bale of 24 #108,Household Products,Tissues & Home Care,SparkleGuard,Bale of 24,199,459.04,TRUE
+PROD308,CleanSwift Laundry Bag of 20 #109,Household Products,Laundry Detergents,CleanSwift,Bag of 20 (500g),345,73.25,TRUE
+PROD309,DeltaHome Dishwashing Carton of 24 #110,Household Products,Dishwashing Liquids,DeltaHome,Carton of 24 (500ml),241,342.35,TRUE
+PROD310,SparkleGuard Surface Jerrycan of 4L #111,Household Products,Surface Disinfectants,SparkleGuard,Jerrycan of 4L,21,4333.44,TRUE
+PROD311,CleanSwift Tissues Bale of 24 #112,Household Products,Tissues & Home Care,CleanSwift,Bale of 24,80,533.66,TRUE
+PROD312,DeltaHome Laundry Bag of 20 #113,Household Products,Laundry Detergents,DeltaHome,Bag of 20 (500g),151,1123.89,TRUE
+PROD313,SparkleGuard Dishwashing Carton of 24 #114,Household Products,Dishwashing Liquids,SparkleGuard,Carton of 24 (500ml),203,343.78,TRUE
+PROD314,CleanSwift Surface Jerrycan of 4L #115,Household Products,Surface Disinfectants,CleanSwift,Jerrycan of 4L,244,3445.09,TRUE
+PROD315,DeltaHome Tissues Bale of 24 #116,Household Products,Tissues & Home Care,DeltaHome,Bale of 24,425,444.76,TRUE
+PROD316,SparkleGuard Laundry Bag of 20 #117,Household Products,Laundry Detergents,SparkleGuard,Bag of 20 (500g),382,2123.77,TRUE
+PROD317,CleanSwift Dishwashing Carton of 24 #118,Household Products,Dishwashing Liquids,CleanSwift,Carton of 24 (500ml),120,34333.76,TRUE
+PROD318,DeltaHome Surface Jerrycan of 4L #119,Household Products,Surface Disinfectants,DeltaHome,Jerrycan of 4L,120,565.89,TRUE
+PROD319,SparkleGuard Tissues Bale of 24 #120,Household Products,Tissues & Home Care,SparkleGuard,Bale of 24,194,23.88,TRUE

@@ -1,101 +1,601 @@
-CustomerID,CustomerName,Email,Location,SignupDate
-CUST100,Barbara Flynn,jlutz@yahoo.com,Sharonhaven,2023-01-10
-CUST101,Susan Diaz,bmueller@roberts.com,Port Ericmouth,2023-09-14
-CUST102,Terry Green,blakethompson@price-young.com,East Shawn,2024-09-20
-CUST103,Kimberly Garza,julie20@yahoo.com,North Williamtown,2022-12-02
-CUST104,David Turner,rangelshannon@hotmail.com,South Staceymouth,2023-05-07
-CUST105,Nicole Ramirez,james53@adams.info,Joshuamouth,2022-06-04
-CUST106,Patrick Kelley,qwilliams@aguilar.com,Lake Amandaview,2024-07-15
-CUST107,Robin Barnes,ureese@white-montgomery.com,Rogerfurt,2022-09-03
-CUST108,Robin Beck,lori26@hotmail.com,Royland,2024-01-27
-CUST109,Yolanda Smith,gramirez@yahoo.com,Villarrealchester,2022-10-24
-CUST110,Reginald Ewing,aaron47@yahoo.com,Lake Josetown,2024-04-14
-CUST111,Daniel Fernandez,jrobinson@potter.net,Nealberg,2022-11-26
-CUST112,Isabella Mccall,davischristopher@perkins.info,East Michelle,2025-02-08
-CUST113,Shawn Goodman,barnesholly@brown.com,North Taylor,2024-12-23
-CUST114,Kristina Singleton,ksmith@yahoo.com,Port Cristianborough,2024-06-15
-CUST115,Heather Day,melissa63@alexander.org,West Sara,2024-10-25
-CUST116,Melinda Gibbs,ashleybrianna@ramirez.org,Saraport,2024-11-01
-CUST117,Amanda Parker,michael56@hotmail.com,North Derek,2024-10-17
-CUST118,Hannah Weber,tamara22@mahoney.com,Brandonhaven,2022-12-03
-CUST119,Katie Wilkerson,jongallagher@jordan.com,Port Bradleybury,2022-08-23
-CUST120,Shannon Greene,fcarpenter@hotmail.com,Port Thomas,2023-08-30
-CUST121,Tanya Nelson,higginsanthony@carter.com,East Robert,2023-09-17
-CUST122,Michael Kaiser,melissameyer@gmail.com,Kimtown,2025-03-05
-CUST123,Erin Leonard,sallycervantes@mccoy-ingram.com,Johnsonstad,2024-06-14
-CUST124,Michael Taylor,mollycochran@yahoo.com,Lake Gary,2024-07-19
-CUST125,Lori Watson,kristina51@yahoo.com,New Kellyberg,2024-02-11
-CUST126,Dr. Krista Lewis DDS,ywright@gmail.com,West Brittanybury,2024-07-20
-CUST127,Marissa Morgan,vtanner@williams.biz,New Michaelfort,2025-04-21
-CUST128,Meagan Padilla,jamesduncan@gmail.com,Port Justinport,2022-10-15
-CUST129,Alexander Torres,dorozco@hudson.com,North Wayneview,2022-08-28
-CUST130,Jesus Gordon,sglover@bell.org,Ericaborough,2023-09-18
-CUST131,Timothy Wheeler,cherman@riley.com,North Carlaton,2023-03-29
-CUST132,James Dodson,hollysandoval@garner.info,Christophertown,2023-12-07
-CUST133,David Smith,loganhensley@mckinney.com,East Sabrina,2023-09-23
-CUST134,Emily Weber,gmartin@gmail.com,West Anita,2023-07-26
-CUST135,Travis Ritter,parrishjennifer@oliver-williams.net,Perkinsfort,2024-10-01
-CUST136,Laura Johnson,ydouglas@gmail.com,Kylestad,2024-05-05
-CUST137,Bradley Norton,deborahbraun@anderson.com,Port Anne,2023-03-16
-CUST138,Karen Hudson,villavictoria@yahoo.com,New Kimberly,2024-03-06
-CUST139,Jason Woodard,schmidtdebbie@lawrence.biz,New Rodneyfort,2022-07-30
-CUST140,Molly Sandoval,martinezjohn@welch.net,North Emily,2024-10-18
-CUST141,Kevin Phillips MD,chelsea94@oconnor-mueller.com,Morenoshire,2023-04-28
-CUST142,Scott Warren,david30@garcia.com,West Sarah,2023-10-18
-CUST143,Natalie Doyle,jessica90@hotmail.com,New Thomastown,2024-10-20
-CUST144,Lee Acosta,faguirre@gmail.com,Vasquezside,2023-09-08
-CUST145,Morgan Rodriguez,martinstacy@conner-armstrong.com,West Samanthaburgh,2023-06-26
-CUST146,Mr. Joshua Owens,kaitlynpotter@yahoo.com,West Michelebury,2023-02-04
-CUST147,Michael Long,qcline@gmail.com,Lake Michael,2023-07-13
-CUST148,Matthew Ramirez,elliottjeffrey@yahoo.com,Andersontown,2024-09-03
-CUST149,Ruben Gay,nscott@yahoo.com,Lake Natashahaven,2024-01-30
-CUST150,Cheyenne Bell,joejames@thompson.com,East Kimberlyburgh,2023-03-20
-CUST151,Kimberly Figueroa,michael85@cox-sims.biz,Donaldfurt,2022-09-30
-CUST152,Lisa Taylor,carrillodenise@singleton.info,North Ricky,2022-06-16
-CUST153,Susan Martinez,ferrellsamuel@gmail.com,Whitneychester,2025-02-26
-CUST154,Christopher Taylor,christopher55@hernandez.com,Phyllisfort,2023-04-01
-CUST155,David Brown,nwright@huerta-snyder.info,Aaronberg,2023-05-08
-CUST156,Misty Santos,uedwards@russell.net,Mcfarlandburgh,2023-06-06
-CUST157,Tammy Smith,elizabethallen@yahoo.com,Davidtown,2025-05-10
-CUST158,Elizabeth White,kevin56@yahoo.com,Kennethshire,2025-04-19
-CUST159,Kim Gibson,jasonrodgers@schaefer-kelley.com,Haleybury,2022-07-09
-CUST160,Bryan Cohen,fraziersamuel@hotmail.com,East Amberstad,2023-03-26
-CUST161,Theresa Collier,angela61@yahoo.com,Nicolestad,2023-07-11
-CUST162,Rebecca Edwards,grossjulie@yahoo.com,West Alexisland,2022-08-02
-CUST163,Kelsey Solomon,tanyadavis@williams.com,Corteztown,2023-03-10
-CUST164,Brittany Daniels,basskeith@smith.com,Adamfort,2024-12-09
-CUST165,Franklin Crawford,kristen96@gmail.com,Davidfurt,2024-03-24
-CUST166,Lisa Sanchez,robinbaker@thomas.org,North Stephen,2023-05-07
-CUST167,Latoya White,amy39@fry-nguyen.org,South Russell,2023-07-24
-CUST168,Linda Massey,simssandra@gmail.com,Samanthaville,2024-10-19
-CUST169,Cynthia Lawson,michellegarcia@hotmail.com,South Kathleen,2024-03-12
-CUST170,Robin Duran,wbond@olson.net,Smithburgh,2023-01-07
-CUST171,Zachary Banks,qquinn@holt.info,Rebeccaburgh,2023-02-18
-CUST172,Latoya Hill,lindseykim@collins.com,New Ebonystad,2022-07-31
-CUST173,Reginald Vasquez,harrisbrandon@yahoo.com,East Lindafurt,2024-01-20
-CUST174,Pamela Hill,melissalong@fuller-rubio.com,Matabury,2025-05-04
-CUST175,Lisa Wright,mooredawn@ortiz.com,East Andreaview,2022-07-30
-CUST176,Anthony Johnson,michaelcross@gamble.com,West Brettport,2022-10-04
-CUST177,Jessica Pope,adamreed@graham.com,Deckerfurt,2023-06-26
-CUST178,Amy Mason,kelly39@hotmail.com,Garciaberg,2024-03-15
-CUST179,Jeremy Hernandez,jasmine07@gallegos.com,Huffmanmouth,2025-01-28
-CUST180,Victoria Daugherty,annamartinez@yahoo.com,Carterfort,2023-09-21
-CUST181,Stephanie Simpson,forbesrachel@gmail.com,North Joe,2024-01-23
-CUST182,Tyler Barrett,jacksonzachary@sanchez.com,Gregoryfurt,2024-07-04
-CUST183,Cindy Hensley,morganbarry@moore.com,North Jessica,2024-01-24
-CUST184,Cheryl Arellano,crawfordkatrina@clark-wheeler.com,New Brandonhaven,2022-06-12
-CUST185,Donna Mcintosh,tyler11@hotmail.com,New Kimberly,2024-07-15
-CUST186,Thomas Gray,ethan99@yahoo.com,New April,2025-02-12
-CUST187,Steven Brown,maddenevelyn@gmail.com,South Frank,2025-01-03
-CUST188,Elizabeth Alvarez,smithbenjamin@yahoo.com,Timothyton,2023-07-01
-CUST189,Robert Strickland,cordovajames@pugh.org,Boonehaven,2024-06-29
-CUST190,Suzanne Barnett,guerraphillip@harris.com,Priceview,2024-03-23
-CUST191,Marissa Barnett,monique24@jacobs-li.com,Prestonshire,2023-06-19
-CUST192,Jennifer Garcia,josephcannon@yahoo.com,North Sarahaven,2024-03-23
-CUST193,Matthew Davis,kelly86@payne.biz,Port Cindy,2022-11-16
-CUST194,Brian King,jacquelinewilliams@anderson.com,Rachelton,2025-03-28
-CUST195,Scott Lopez,uglover@hotmail.com,Edwardsbury,2024-08-28
-CUST196,Kelly Freeman,karentorres@gmail.com,New Loriberg,2023-05-21
-CUST197,Dustin Gill,mgilmore@frost-johnson.com,Hornchester,2022-09-24
-CUST198,Yvonne Davis,williamsgeorge@cole-aguirre.com,North Taylorbury,2024-11-03
-CUST199,Anita Ruiz,lawrencekim@parker.com,Tylermouth,2023-09-22
+CustomerID,CustomerName,CustomerSegment,PrimaryChannel,LocationKey,DistributionHubCode,Region,State,City,CreditLimit,AcquisitionDate,IsActive
+CUST100,Apapa Wholesale Enterprises #1,Wholesale Distributor,Modern Trade EDI,3,Hub-LOS-03,South West,Lagos,Apapa,9633420.5,11/24/2022,FALSE
+CUST101,Kaduna South Modern Enterprises #2,Modern Retail Chain,Modern Trade EDI,9,Hub-KAD-01,North West,Kaduna,Kaduna South,3868725.12,12/13/2021,TRUE
+CUST102,Abeokuta Traditional Enterprises #3,Traditional General Trade,Modern Trade EDI,5,Hub-ABK-01,South West,Ogun,Abeokuta,2370407.43,2/4/2022,TRUE
+CUST103,Onitsha Traditional Enterprises #4,Traditional General Trade,Distributor Portal,10,Hub-ONI-01,South East,Anambra,Onitsha,1652109.13,2/5/2022,TRUE
+CUST104,Nassarawa Modern Enterprises #5,Modern Retail Chain,Distributor Portal,8,Hub-KAN-01,North West,Kano,Nassarawa,10807230.31,8/14/2022,TRUE
+CUST105,Independence Layout Modern Enterprises #6,Modern Retail Chain,Field Telesales,11,Hub-ENU-01,South East,Enugu,Independence Layout,9898639.31,1/15/2022,TRUE
+CUST106,Nassarawa Modern Enterprises #7,Modern Retail Chain,E-Commerce B2B,8,Hub-KAN-01,North West,Kano,Nassarawa,2256621.04,1/31/2021,TRUE
+CUST107,Victoria Island Key Enterprises #8,Key Account,Direct Sales Force,2,Hub-LOS-02,South West,Lagos,Victoria Island,10017925.91,7/24/2021,TRUE
+CUST108,Independence Layout Traditional Enterprises #9,Traditional General Trade,Distributor Portal,11,Hub-ENU-01,South East,Enugu,Independence Layout,2938313.63,10/22/2022,TRUE
+CUST109,Ikeja Modern Enterprises #10,Modern Retail Chain,Field Telesales,1,Hub-LOS-01,South West,Lagos,Ikeja,7808824.28,4/23/2021,TRUE
+CUST110,Nassarawa Institutional Enterprises #11,Institutional / HoReCa,Distributor Portal,8,Hub-KAN-01,North West,Kano,Nassarawa,2759340.9,2/25/2021,TRUE
+CUST111,Benin City Traditional Enterprises #12,Traditional General Trade,Direct Sales Force,14,Hub-BEN-01,South South,Edo,Benin City,1510485.51,5/30/2022,TRUE
+CUST112,Abeokuta Wholesale Enterprises #13,Wholesale Distributor,Direct Sales Force,5,Hub-ABK-01,South West,Ogun,Abeokuta,6184404.35,7/7/2022,TRUE
+CUST113,Nassarawa Traditional Enterprises #14,Traditional General Trade,E-Commerce B2B,8,Hub-KAN-01,North West,Kano,Nassarawa,2056900.64,12/24/2022,TRUE
+CUST114,Port Harcourt Wholesale Enterprises #15,Wholesale Distributor,E-Commerce B2B,12,Hub-PHC-01,South South,Rivers,Port Harcourt,11332886.11,1/3/2022,TRUE
+CUST115,Gwagwalada Traditional Enterprises #16,Traditional General Trade,Direct Sales Force,7,Hub-ABJ-02,North Central,FCT Abuja,Gwagwalada,1775312.54,11/13/2021,TRUE
+CUST116,Abeokuta Institutional Enterprises #17,Institutional / HoReCa,Direct Sales Force,5,Hub-ABK-01,South West,Ogun,Abeokuta,1006769.93,11/18/2022,TRUE
+CUST117,Ikeja Modern Enterprises #18,Modern Retail Chain,E-Commerce B2B,1,Hub-LOS-01,South West,Lagos,Ikeja,6679544.75,3/5/2022,TRUE
+CUST118,Ibadan Traditional Enterprises #19,Traditional General Trade,Distributor Portal,4,Hub-IBD-01,South West,Oyo,Ibadan,2359734.41,9/16/2022,TRUE
+CUST119,Kaduna South Traditional Enterprises #20,Traditional General Trade,Field Telesales,9,Hub-KAD-01,North West,Kaduna,Kaduna South,1441477.25,2/12/2021,TRUE
+CUST120,Warri Traditional Enterprises #21,Traditional General Trade,Distributor Portal,13,Hub-WAR-01,South South,Delta,Warri,2748039.67,8/30/2021,TRUE
+CUST121,Gwagwalada Modern Enterprises #22,Modern Retail Chain,Modern Trade EDI,7,Hub-ABJ-02,North Central,FCT Abuja,Gwagwalada,7664801.38,10/26/2022,TRUE
+CUST122,Wuse II Modern Enterprises #23,Modern Retail Chain,Distributor Portal,6,Hub-ABJ-01,North Central,FCT Abuja,Wuse II,2602287.02,9/12/2022,TRUE
+CUST123,Nassarawa Institutional Enterprises #24,Institutional / HoReCa,Field Telesales,8,Hub-KAN-01,North West,Kano,Nassarawa,826896.39,4/6/2022,TRUE
+CUST124,Abeokuta Key Enterprises #25,Key Account,Direct Sales Force,5,Hub-ABK-01,South West,Ogun,Abeokuta,12584664.89,3/20/2022,TRUE
+CUST125,Warri Traditional Enterprises #26,Traditional General Trade,Modern Trade EDI,13,Hub-WAR-01,South South,Delta,Warri,1153571.85,1/6/2021,TRUE
+CUST126,Nassarawa Institutional Enterprises #27,Institutional / HoReCa,Field Telesales,8,Hub-KAN-01,North West,Kano,Nassarawa,1801894.09,8/10/2022,TRUE
+CUST127,Kaduna South Institutional Enterprises #28,Institutional / HoReCa,Modern Trade EDI,9,Hub-KAD-01,North West,Kaduna,Kaduna South,3380436.48,6/11/2022,TRUE
+CUST128,Gwagwalada Key Enterprises #29,Key Account,E-Commerce B2B,7,Hub-ABJ-02,North Central,FCT Abuja,Gwagwalada,12401995.74,1/6/2022,TRUE
+CUST129,Independence Layout Traditional Enterprises #30,Traditional General Trade,Modern Trade EDI,11,Hub-ENU-01,South East,Enugu,Independence Layout,3449878.76,12/9/2022,TRUE
+CUST130,Port Harcourt Traditional Enterprises #31,Traditional General Trade,Field Telesales,12,Hub-PHC-01,South South,Rivers,Port Harcourt,652576.77,4/11/2022,TRUE
+CUST131,Abeokuta Traditional Enterprises #32,Traditional General Trade,E-Commerce B2B,5,Hub-ABK-01,South West,Ogun,Abeokuta,3453005.55,12/24/2021,TRUE
+CUST132,Abeokuta Modern Enterprises #33,Modern Retail Chain,E-Commerce B2B,5,Hub-ABK-01,South West,Ogun,Abeokuta,2390602.36,2/24/2021,TRUE
+CUST133,Port Harcourt Traditional Enterprises #34,Traditional General Trade,Distributor Portal,12,Hub-PHC-01,South South,Rivers,Port Harcourt,2923395.04,11/7/2022,FALSE
+CUST134,Ikeja Key Enterprises #35,Key Account,Distributor Portal,1,Hub-LOS-01,South West,Lagos,Ikeja,17694376.65,9/27/2021,TRUE
+CUST135,Victoria Island Traditional Enterprises #36,Traditional General Trade,Direct Sales Force,2,Hub-LOS-02,South West,Lagos,Victoria Island,2653152.27,9/24/2022,TRUE
+CUST136,Wuse II Wholesale Enterprises #37,Wholesale Distributor,Direct Sales Force,6,Hub-ABJ-01,North Central,FCT Abuja,Wuse II,21807819.35,3/16/2021,FALSE
+CUST137,Kaduna South Modern Enterprises #38,Modern Retail Chain,Distributor Portal,9,Hub-KAD-01,North West,Kaduna,Kaduna South,1810876.54,5/10/2022,TRUE
+CUST138,Onitsha Traditional Enterprises #39,Traditional General Trade,E-Commerce B2B,10,Hub-ONI-01,South East,Anambra,Onitsha,3021538.67,7/5/2021,TRUE
+CUST139,Ibadan Traditional Enterprises #40,Traditional General Trade,E-Commerce B2B,4,Hub-IBD-01,South West,Oyo,Ibadan,2168540.82,8/7/2021,TRUE
+CUST140,Victoria Island Institutional Enterprises #41,Institutional / HoReCa,Distributor Portal,2,Hub-LOS-02,South West,Lagos,Victoria Island,525637.67,9/25/2022,TRUE
+CUST141,Apapa Traditional Enterprises #42,Traditional General Trade,Modern Trade EDI,3,Hub-LOS-03,South West,Lagos,Apapa,3495915.95,8/13/2022,TRUE
+CUST142,Independence Layout Wholesale Enterprises #43,Wholesale Distributor,Modern Trade EDI,11,Hub-ENU-01,South East,Enugu,Independence Layout,24945550.84,3/29/2021,TRUE
+CUST143,Kaduna South Traditional Enterprises #44,Traditional General Trade,Direct Sales Force,9,Hub-KAD-01,North West,Kaduna,Kaduna South,3224720.97,10/14/2021,TRUE
+CUST144,Abeokuta Wholesale Enterprises #45,Wholesale Distributor,Direct Sales Force,5,Hub-ABK-01,South West,Ogun,Abeokuta,7044528.35,3/2/2021,FALSE
+CUST145,Ikeja Modern Enterprises #46,Modern Retail Chain,E-Commerce B2B,1,Hub-LOS-01,South West,Lagos,Ikeja,5104570.85,4/9/2022,TRUE
+CUST146,Warri Traditional Enterprises #47,Traditional General Trade,E-Commerce B2B,13,Hub-WAR-01,South South,Delta,Warri,1174757.84,1/3/2022,TRUE
+CUST147,Nassarawa Wholesale Enterprises #48,Wholesale Distributor,Modern Trade EDI,8,Hub-KAN-01,North West,Kano,Nassarawa,22953958.32,8/26/2021,TRUE
+CUST148,Benin City Traditional Enterprises #49,Traditional General Trade,Field Telesales,14,Hub-BEN-01,South South,Edo,Benin City,1222995.7,3/29/2022,TRUE
+CUST149,Onitsha Wholesale Enterprises #50,Wholesale Distributor,Direct Sales Force,10,Hub-ONI-01,South East,Anambra,Onitsha,22172073.22,4/24/2021,TRUE
+CUST150,Ikeja Traditional Enterprises #51,Traditional General Trade,Modern Trade EDI,1,Hub-LOS-01,South West,Lagos,Ikeja,1674755.34,3/4/2022,TRUE
+CUST151,Independence Layout Institutional Enterprises #52,Institutional / HoReCa,Modern Trade EDI,11,Hub-ENU-01,South East,Enugu,Independence Layout,2897574.94,5/8/2022,TRUE
+CUST152,Ibadan Wholesale Enterprises #53,Wholesale Distributor,Field Telesales,4,Hub-IBD-01,South West,Oyo,Ibadan,4792618.54,5/5/2021,TRUE
+CUST153,Nassarawa Institutional Enterprises #54,Institutional / HoReCa,Field Telesales,8,Hub-KAN-01,North West,Kano,Nassarawa,1657160.6,1/10/2022,FALSE
+CUST154,Benin City Key Enterprises #55,Key Account,E-Commerce B2B,14,Hub-BEN-01,South South,Edo,Benin City,8036498.76,8/3/2021,TRUE
+CUST155,Ikeja Modern Enterprises #56,Modern Retail Chain,Distributor Portal,1,Hub-LOS-01,South West,Lagos,Ikeja,4781984.46,1/12/2022,TRUE
+CUST156,Port Harcourt Modern Enterprises #57,Modern Retail Chain,Direct Sales Force,12,Hub-PHC-01,South South,Rivers,Port Harcourt,8830992.12,7/22/2022,TRUE
+CUST157,Ikeja Wholesale Enterprises #58,Wholesale Distributor,Modern Trade EDI,1,Hub-LOS-01,South West,Lagos,Ikeja,11873716.74,10/15/2021,FALSE
+CUST158,Abeokuta Traditional Enterprises #59,Traditional General Trade,Direct Sales Force,5,Hub-ABK-01,South West,Ogun,Abeokuta,1901543.91,4/29/2021,TRUE
+CUST159,Ikeja Wholesale Enterprises #60,Wholesale Distributor,Modern Trade EDI,1,Hub-LOS-01,South West,Lagos,Ikeja,20063075.59,11/11/2021,TRUE
+CUST160,Nassarawa Wholesale Enterprises #61,Wholesale Distributor,Distributor Portal,8,Hub-KAN-01,North West,Kano,Nassarawa,13296926.51,3/13/2022,TRUE
+CUST161,Ibadan Wholesale Enterprises #62,Wholesale Distributor,Field Telesales,4,Hub-IBD-01,South West,Oyo,Ibadan,23433653.9,8/30/2021,TRUE
+CUST162,Gwagwalada Traditional Enterprises #63,Traditional General Trade,Modern Trade EDI,7,Hub-ABJ-02,North Central,FCT Abuja,Gwagwalada,403965.57,5/20/2021,TRUE
+CUST163,Apapa Institutional Enterprises #64,Institutional / HoReCa,Direct Sales Force,3,Hub-LOS-03,South West,Lagos,Apapa,862046.42,1/7/2021,FALSE
+CUST164,Apapa Traditional Enterprises #65,Traditional General Trade,Direct Sales Force,3,Hub-LOS-03,South West,Lagos,Apapa,2099939.16,12/14/2021,TRUE
+CUST165,Ibadan Traditional Enterprises #66,Traditional General Trade,Modern Trade EDI,4,Hub-IBD-01,South West,Oyo,Ibadan,3023450.74,1/4/2021,TRUE
+CUST166,Gwagwalada Traditional Enterprises #67,Traditional General Trade,Direct Sales Force,7,Hub-ABJ-02,North Central,FCT Abuja,Gwagwalada,1076356.32,12/28/2022,TRUE
+CUST167,Port Harcourt Modern Enterprises #68,Modern Retail Chain,E-Commerce B2B,12,Hub-PHC-01,South South,Rivers,Port Harcourt,11838820.1,3/17/2022,TRUE
+CUST168,Independence Layout Wholesale Enterprises #69,Wholesale Distributor,E-Commerce B2B,11,Hub-ENU-01,South East,Enugu,Independence Layout,16016513.17,2/5/2022,TRUE
+CUST169,Port Harcourt Modern Enterprises #70,Modern Retail Chain,Field Telesales,12,Hub-PHC-01,South South,Rivers,Port Harcourt,2320138.13,8/20/2021,FALSE
+CUST170,Independence Layout Key Enterprises #71,Key Account,Distributor Portal,11,Hub-ENU-01,South East,Enugu,Independence Layout,18816624.72,5/28/2022,TRUE
+CUST171,Apapa Traditional Enterprises #72,Traditional General Trade,E-Commerce B2B,3,Hub-LOS-03,South West,Lagos,Apapa,3142563.24,8/20/2021,TRUE
+CUST172,Ibadan Wholesale Enterprises #73,Wholesale Distributor,Direct Sales Force,4,Hub-IBD-01,South West,Oyo,Ibadan,6391238.57,5/5/2022,TRUE
+CUST173,Onitsha Institutional Enterprises #74,Institutional / HoReCa,Distributor Portal,10,Hub-ONI-01,South East,Anambra,Onitsha,303884.36,1/3/2021,TRUE
+CUST174,Kaduna South Wholesale Enterprises #75,Wholesale Distributor,Modern Trade EDI,9,Hub-KAD-01,North West,Kaduna,Kaduna South,22308556.75,2/23/2022,TRUE
+CUST175,Warri Traditional Enterprises #76,Traditional General Trade,Direct Sales Force,13,Hub-WAR-01,South South,Delta,Warri,414189.01,7/19/2021,TRUE
+CUST176,Victoria Island Traditional Enterprises #77,Traditional General Trade,Distributor Portal,2,Hub-LOS-02,South West,Lagos,Victoria Island,309021.77,12/14/2022,TRUE
+CUST177,Port Harcourt Wholesale Enterprises #78,Wholesale Distributor,E-Commerce B2B,12,Hub-PHC-01,South South,Rivers,Port Harcourt,8207451.4,9/30/2022,TRUE
+CUST178,Apapa Modern Enterprises #79,Modern Retail Chain,Modern Trade EDI,3,Hub-LOS-03,South West,Lagos,Apapa,9120581.16,7/3/2022,TRUE
+CUST179,Onitsha Traditional Enterprises #80,Traditional General Trade,Field Telesales,10,Hub-ONI-01,South East,Anambra,Onitsha,1612635.26,12/19/2022,TRUE
+CUST180,Benin City Traditional Enterprises #81,Traditional General Trade,Direct Sales Force,14,Hub-BEN-01,South South,Edo,Benin City,1575874.65,9/19/2021,TRUE
+CUST181,Nassarawa Institutional Enterprises #82,Institutional / HoReCa,Field Telesales,8,Hub-KAN-01,North West,Kano,Nassarawa,2468390.19,10/16/2021,TRUE
+CUST182,Wuse II Wholesale Enterprises #83,Wholesale Distributor,E-Commerce B2B,6,Hub-ABJ-01,North Central,FCT Abuja,Wuse II,21827114.36,5/13/2022,TRUE
+CUST183,Apapa Wholesale Enterprises #84,Wholesale Distributor,Distributor Portal,3,Hub-LOS-03,South West,Lagos,Apapa,19003635.35,12/9/2021,TRUE
+CUST184,Onitsha Modern Enterprises #85,Modern Retail Chain,Distributor Portal,10,Hub-ONI-01,South East,Anambra,Onitsha,9176927.75,3/6/2021,TRUE
+CUST185,Independence Layout Traditional Enterprises #86,Traditional General Trade,Modern Trade EDI,11,Hub-ENU-01,South East,Enugu,Independence Layout,3187913.2,3/18/2021,TRUE
+CUST186,Warri Key Enterprises #87,Key Account,Field Telesales,13,Hub-WAR-01,South South,Delta,Warri,19231008.21,1/3/2021,FALSE
+CUST187,Apapa Institutional Enterprises #88,Institutional / HoReCa,E-Commerce B2B,3,Hub-LOS-03,South West,Lagos,Apapa,2587765.73,10/3/2021,TRUE
+CUST188,Kaduna South Wholesale Enterprises #89,Wholesale Distributor,Distributor Portal,9,Hub-KAD-01,North West,Kaduna,Kaduna South,15572260.91,9/12/2021,TRUE
+CUST189,Kaduna South Traditional Enterprises #90,Traditional General Trade,Modern Trade EDI,9,Hub-KAD-01,North West,Kaduna,Kaduna South,1769830.83,11/14/2022,TRUE
+CUST190,Abeokuta Modern Enterprises #91,Modern Retail Chain,Distributor Portal,5,Hub-ABK-01,South West,Ogun,Abeokuta,3210150.76,7/16/2022,TRUE
+CUST191,Victoria Island Wholesale Enterprises #92,Wholesale Distributor,Direct Sales Force,2,Hub-LOS-02,South West,Lagos,Victoria Island,7980926.77,11/29/2022,TRUE
+CUST192,Gwagwalada Institutional Enterprises #93,Institutional / HoReCa,Field Telesales,7,Hub-ABJ-02,North Central,FCT Abuja,Gwagwalada,906786.33,9/8/2021,TRUE
+CUST193,Ibadan Traditional Enterprises #94,Traditional General Trade,Direct Sales Force,4,Hub-IBD-01,South West,Oyo,Ibadan,1093179.48,12/8/2021,TRUE
+CUST194,Ikeja Institutional Enterprises #95,Institutional / HoReCa,Modern Trade EDI,1,Hub-LOS-01,South West,Lagos,Ikeja,1860396.31,6/28/2021,TRUE
+CUST195,Onitsha Wholesale Enterprises #96,Wholesale Distributor,Direct Sales Force,10,Hub-ONI-01,South East,Anambra,Onitsha,19708079.93,8/4/2021,TRUE
+CUST196,Independence Layout Institutional Enterprises #97,Institutional / HoReCa,E-Commerce B2B,11,Hub-ENU-01,South East,Enugu,Independence Layout,3347247.18,3/25/2022,TRUE
+CUST197,Benin City Wholesale Enterprises #98,Wholesale Distributor,E-Commerce B2B,14,Hub-BEN-01,South South,Edo,Benin City,14940210.72,8/11/2021,TRUE
+CUST198,Port Harcourt Traditional Enterprises #99,Traditional General Trade,E-Commerce B2B,12,Hub-PHC-01,South South,Rivers,Port Harcourt,787261.8,10/21/2021,TRUE
+CUST199,Nassarawa Wholesale Enterprises #100,Wholesale Distributor,Direct Sales Force,8,Hub-KAN-01,North West,Kano,Nassarawa,15645126.85,9/14/2022,TRUE
+CUST200,Independence Layout Modern Enterprises #101,Modern Retail Chain,Distributor Portal,11,Hub-ENU-01,South East,Enugu,Independence Layout,9480157.2,9/2/2022,TRUE
+CUST201,Wuse II Wholesale Enterprises #102,Wholesale Distributor,Field Telesales,6,Hub-ABJ-01,North Central,FCT Abuja,Wuse II,5214745.09,11/19/2022,TRUE
+CUST202,Independence Layout Wholesale Enterprises #103,Wholesale Distributor,Direct Sales Force,11,Hub-ENU-01,South East,Enugu,Independence Layout,6538571.63,5/10/2021,TRUE
+CUST203,Port Harcourt Modern Enterprises #104,Modern Retail Chain,Direct Sales Force,12,Hub-PHC-01,South South,Rivers,Port Harcourt,8957574.61,6/29/2021,TRUE
+CUST204,Kaduna South Wholesale Enterprises #105,Wholesale Distributor,E-Commerce B2B,9,Hub-KAD-01,North West,Kaduna,Kaduna South,8089144.09,1/26/2022,TRUE
+CUST205,Nassarawa Wholesale Enterprises #106,Wholesale Distributor,Direct Sales Force,8,Hub-KAN-01,North West,Kano,Nassarawa,22479748.64,11/18/2022,TRUE
+CUST206,Abeokuta Modern Enterprises #107,Modern Retail Chain,Modern Trade EDI,5,Hub-ABK-01,South West,Ogun,Abeokuta,7133964.14,11/26/2021,TRUE
+CUST207,Nassarawa Wholesale Enterprises #108,Wholesale Distributor,Distributor Portal,8,Hub-KAN-01,North West,Kano,Nassarawa,23925618.61,4/2/2021,TRUE
+CUST208,Port Harcourt Wholesale Enterprises #109,Wholesale Distributor,E-Commerce B2B,12,Hub-PHC-01,South South,Rivers,Port Harcourt,7173638.2,9/29/2021,TRUE
+CUST209,Nassarawa Key Enterprises #110,Key Account,Distributor Portal,8,Hub-KAN-01,North West,Kano,Nassarawa,23129089.17,3/28/2021,TRUE
+CUST210,Warri Modern Enterprises #111,Modern Retail Chain,Field Telesales,13,Hub-WAR-01,South South,Delta,Warri,7084803.96,12/10/2022,TRUE
+CUST211,Wuse II Institutional Enterprises #112,Institutional / HoReCa,Direct Sales Force,6,Hub-ABJ-01,North Central,FCT Abuja,Wuse II,2660247.56,8/21/2022,TRUE
+CUST212,Port Harcourt Institutional Enterprises #113,Institutional / HoReCa,Direct Sales Force,12,Hub-PHC-01,South South,Rivers,Port Harcourt,412846.74,5/13/2022,TRUE
+CUST213,Abeokuta Traditional Enterprises #114,Traditional General Trade,Field Telesales,5,Hub-ABK-01,South West,Ogun,Abeokuta,2690225.4,3/31/2022,TRUE
+CUST214,Port Harcourt Institutional Enterprises #115,Institutional / HoReCa,Distributor Portal,12,Hub-PHC-01,South South,Rivers,Port Harcourt,2326794.36,1/23/2022,FALSE
+CUST215,Gwagwalada Institutional Enterprises #116,Institutional / HoReCa,Distributor Portal,7,Hub-ABJ-02,North Central,FCT Abuja,Gwagwalada,451705.1,7/25/2021,TRUE
+CUST216,Port Harcourt Wholesale Enterprises #117,Wholesale Distributor,Direct Sales Force,12,Hub-PHC-01,South South,Rivers,Port Harcourt,11340866.31,7/29/2022,TRUE
+CUST217,Kaduna South Wholesale Enterprises #118,Wholesale Distributor,Modern Trade EDI,9,Hub-KAD-01,North West,Kaduna,Kaduna South,12874737.18,6/15/2022,TRUE
+CUST218,Onitsha Modern Enterprises #119,Modern Retail Chain,Modern Trade EDI,10,Hub-ONI-01,South East,Anambra,Onitsha,5098493.25,3/25/2022,TRUE
+CUST219,Benin City Traditional Enterprises #120,Traditional General Trade,E-Commerce B2B,14,Hub-BEN-01,South South,Edo,Benin City,380824.65,9/10/2022,TRUE
+CUST220,Abeokuta Traditional Enterprises #121,Traditional General Trade,E-Commerce B2B,5,Hub-ABK-01,South West,Ogun,Abeokuta,1977094.89,7/22/2021,TRUE
+CUST221,Benin City Wholesale Enterprises #122,Wholesale Distributor,Distributor Portal,14,Hub-BEN-01,South South,Edo,Benin City,10742548.49,11/23/2022,TRUE
+CUST222,Wuse II Traditional Enterprises #123,Traditional General Trade,Modern Trade EDI,6,Hub-ABJ-01,North Central,FCT Abuja,Wuse II,1904035.99,4/20/2021,TRUE
+CUST223,Independence Layout Modern Enterprises #124,Modern Retail Chain,Direct Sales Force,11,Hub-ENU-01,South East,Enugu,Independence Layout,5094805.55,4/18/2022,TRUE
+CUST224,Gwagwalada Wholesale Enterprises #125,Wholesale Distributor,Modern Trade EDI,7,Hub-ABJ-02,North Central,FCT Abuja,Gwagwalada,17518523.27,8/27/2022,TRUE
+CUST225,Victoria Island Traditional Enterprises #126,Traditional General Trade,Distributor Portal,2,Hub-LOS-02,South West,Lagos,Victoria Island,1311277.24,1/15/2021,TRUE
+CUST226,Apapa Traditional Enterprises #127,Traditional General Trade,Field Telesales,3,Hub-LOS-03,South West,Lagos,Apapa,2420509.77,7/3/2022,TRUE
+CUST227,Ibadan Wholesale Enterprises #128,Wholesale Distributor,Field Telesales,4,Hub-IBD-01,South West,Oyo,Ibadan,8879217.25,4/12/2021,TRUE
+CUST228,Warri Wholesale Enterprises #129,Wholesale Distributor,E-Commerce B2B,13,Hub-WAR-01,South South,Delta,Warri,18281299.78,12/3/2022,TRUE
+CUST229,Nassarawa Traditional Enterprises #130,Traditional General Trade,Field Telesales,8,Hub-KAN-01,North West,Kano,Nassarawa,2282804.01,7/6/2021,TRUE
+CUST230,Independence Layout Modern Enterprises #131,Modern Retail Chain,E-Commerce B2B,11,Hub-ENU-01,South East,Enugu,Independence Layout,1743889.61,11/18/2021,TRUE
+CUST231,Onitsha Traditional Enterprises #132,Traditional General Trade,E-Commerce B2B,10,Hub-ONI-01,South East,Anambra,Onitsha,1692814.38,3/22/2022,TRUE
+CUST232,Port Harcourt Wholesale Enterprises #133,Wholesale Distributor,E-Commerce B2B,12,Hub-PHC-01,South South,Rivers,Port Harcourt,13521045.76,9/18/2022,TRUE
+CUST233,Nassarawa Wholesale Enterprises #134,Wholesale Distributor,E-Commerce B2B,8,Hub-KAN-01,North West,Kano,Nassarawa,23035116.29,6/28/2021,TRUE
+CUST234,Abeokuta Institutional Enterprises #135,Institutional / HoReCa,E-Commerce B2B,5,Hub-ABK-01,South West,Ogun,Abeokuta,2735168.49,1/16/2021,TRUE
+CUST235,Independence Layout Modern Enterprises #136,Modern Retail Chain,Field Telesales,11,Hub-ENU-01,South East,Enugu,Independence Layout,4022375.9,11/30/2021,TRUE
+CUST236,Kaduna South Wholesale Enterprises #137,Wholesale Distributor,Distributor Portal,9,Hub-KAD-01,North West,Kaduna,Kaduna South,11724603.74,12/4/2021,TRUE
+CUST237,Kaduna South Traditional Enterprises #138,Traditional General Trade,Distributor Portal,9,Hub-KAD-01,North West,Kaduna,Kaduna South,795023.44,9/21/2022,FALSE
+CUST238,Ikeja Traditional Enterprises #139,Traditional General Trade,Distributor Portal,1,Hub-LOS-01,South West,Lagos,Ikeja,699569.48,4/9/2021,TRUE
+CUST239,Port Harcourt Key Enterprises #140,Key Account,Direct Sales Force,12,Hub-PHC-01,South South,Rivers,Port Harcourt,24968714.09,10/12/2021,TRUE
+CUST240,Benin City Modern Enterprises #141,Modern Retail Chain,Direct Sales Force,14,Hub-BEN-01,South South,Edo,Benin City,11295458.22,10/20/2021,TRUE
+CUST241,Kaduna South Key Enterprises #142,Key Account,E-Commerce B2B,9,Hub-KAD-01,North West,Kaduna,Kaduna South,20291604.41,4/11/2021,TRUE
+CUST242,Gwagwalada Traditional Enterprises #143,Traditional General Trade,E-Commerce B2B,7,Hub-ABJ-02,North Central,FCT Abuja,Gwagwalada,2955720.18,11/27/2021,TRUE
+CUST243,Victoria Island Modern Enterprises #144,Modern Retail Chain,Modern Trade EDI,2,Hub-LOS-02,South West,Lagos,Victoria Island,6758044.57,2/8/2022,TRUE
+CUST244,Port Harcourt Institutional Enterprises #145,Institutional / HoReCa,Field Telesales,12,Hub-PHC-01,South South,Rivers,Port Harcourt,1928493.06,1/18/2021,TRUE
+CUST245,Benin City Traditional Enterprises #146,Traditional General Trade,Direct Sales Force,14,Hub-BEN-01,South South,Edo,Benin City,1284560.76,12/14/2022,TRUE
+CUST246,Apapa Key Enterprises #147,Key Account,Modern Trade EDI,3,Hub-LOS-03,South West,Lagos,Apapa,10450098.14,9/27/2021,TRUE
+CUST247,Onitsha Traditional Enterprises #148,Traditional General Trade,E-Commerce B2B,10,Hub-ONI-01,South East,Anambra,Onitsha,1604164.49,8/23/2022,TRUE
+CUST248,Ibadan Traditional Enterprises #149,Traditional General Trade,Field Telesales,4,Hub-IBD-01,South West,Oyo,Ibadan,3152350.81,5/3/2021,TRUE
+CUST249,Gwagwalada Traditional Enterprises #150,Traditional General Trade,E-Commerce B2B,7,Hub-ABJ-02,North Central,FCT Abuja,Gwagwalada,748957.95,3/12/2021,TRUE
+CUST250,Ibadan Key Enterprises #151,Key Account,Direct Sales Force,4,Hub-IBD-01,South West,Oyo,Ibadan,12317124.84,6/15/2021,TRUE
+CUST251,Ikeja Key Enterprises #152,Key Account,Distributor Portal,1,Hub-LOS-01,South West,Lagos,Ikeja,21020364.64,4/22/2022,TRUE
+CUST252,Ikeja Traditional Enterprises #153,Traditional General Trade,Direct Sales Force,1,Hub-LOS-01,South West,Lagos,Ikeja,2001560.74,7/15/2021,TRUE
+CUST253,Port Harcourt Key Enterprises #154,Key Account,Modern Trade EDI,12,Hub-PHC-01,South South,Rivers,Port Harcourt,19100445.01,10/15/2021,TRUE
+CUST254,Abeokuta Modern Enterprises #155,Modern Retail Chain,Field Telesales,5,Hub-ABK-01,South West,Ogun,Abeokuta,6379136.2,1/29/2022,TRUE
+CUST255,Independence Layout Wholesale Enterprises #156,Wholesale Distributor,Field Telesales,11,Hub-ENU-01,South East,Enugu,Independence Layout,19408543.24,6/2/2021,TRUE
+CUST256,Independence Layout Wholesale Enterprises #157,Wholesale Distributor,Direct Sales Force,11,Hub-ENU-01,South East,Enugu,Independence Layout,21019921.51,4/29/2021,TRUE
+CUST257,Apapa Institutional Enterprises #158,Institutional / HoReCa,E-Commerce B2B,3,Hub-LOS-03,South West,Lagos,Apapa,2374004.43,4/11/2021,TRUE
+CUST258,Warri Traditional Enterprises #159,Traditional General Trade,Distributor Portal,13,Hub-WAR-01,South South,Delta,Warri,3086791.62,11/27/2022,TRUE
+CUST259,Benin City Wholesale Enterprises #160,Wholesale Distributor,Modern Trade EDI,14,Hub-BEN-01,South South,Edo,Benin City,9004380.59,4/24/2022,TRUE
+CUST260,Ikeja Traditional Enterprises #161,Traditional General Trade,Modern Trade EDI,1,Hub-LOS-01,South West,Lagos,Ikeja,2559231.51,10/8/2021,FALSE
+CUST261,Port Harcourt Key Enterprises #162,Key Account,E-Commerce B2B,12,Hub-PHC-01,South South,Rivers,Port Harcourt,13439321.7,3/16/2022,TRUE
+CUST262,Abeokuta Traditional Enterprises #163,Traditional General Trade,Modern Trade EDI,5,Hub-ABK-01,South West,Ogun,Abeokuta,2073974.97,3/17/2021,TRUE
+CUST263,Port Harcourt Wholesale Enterprises #164,Wholesale Distributor,Direct Sales Force,12,Hub-PHC-01,South South,Rivers,Port Harcourt,9581866.42,1/17/2022,TRUE
+CUST264,Kaduna South Key Enterprises #165,Key Account,Field Telesales,9,Hub-KAD-01,North West,Kaduna,Kaduna South,7276235.62,9/22/2021,TRUE
+CUST265,Ikeja Traditional Enterprises #166,Traditional General Trade,Field Telesales,1,Hub-LOS-01,South West,Lagos,Ikeja,3143357.88,5/6/2021,TRUE
+CUST266,Port Harcourt Institutional Enterprises #167,Institutional / HoReCa,Modern Trade EDI,12,Hub-PHC-01,South South,Rivers,Port Harcourt,949329.39,12/13/2021,TRUE
+CUST267,Ikeja Wholesale Enterprises #168,Wholesale Distributor,Distributor Portal,1,Hub-LOS-01,South West,Lagos,Ikeja,7317076.51,5/12/2022,TRUE
+CUST268,Wuse II Modern Enterprises #169,Modern Retail Chain,Distributor Portal,6,Hub-ABJ-01,North Central,FCT Abuja,Wuse II,2914266.26,1/16/2022,TRUE
+CUST269,Apapa Wholesale Enterprises #170,Wholesale Distributor,Distributor Portal,3,Hub-LOS-03,South West,Lagos,Apapa,3743584.21,9/21/2021,TRUE
+CUST270,Abeokuta Traditional Enterprises #171,Traditional General Trade,Distributor Portal,5,Hub-ABK-01,South West,Ogun,Abeokuta,3137187.72,11/2/2021,TRUE
+CUST271,Apapa Key Enterprises #172,Key Account,Field Telesales,3,Hub-LOS-03,South West,Lagos,Apapa,5094844.86,3/20/2021,TRUE
+CUST272,Wuse II Traditional Enterprises #173,Traditional General Trade,Direct Sales Force,6,Hub-ABJ-01,North Central,FCT Abuja,Wuse II,2914378.79,12/4/2022,TRUE
+CUST273,Independence Layout Institutional Enterprises #174,Institutional / HoReCa,Modern Trade EDI,11,Hub-ENU-01,South East,Enugu,Independence Layout,1554111.13,2/2/2021,TRUE
+CUST274,Gwagwalada Traditional Enterprises #175,Traditional General Trade,E-Commerce B2B,7,Hub-ABJ-02,North Central,FCT Abuja,Gwagwalada,803608.88,10/31/2022,TRUE
+CUST275,Port Harcourt Modern Enterprises #176,Modern Retail Chain,Modern Trade EDI,12,Hub-PHC-01,South South,Rivers,Port Harcourt,11694289.65,12/27/2021,TRUE
+CUST276,Port Harcourt Traditional Enterprises #177,Traditional General Trade,Distributor Portal,12,Hub-PHC-01,South South,Rivers,Port Harcourt,1293528.29,12/10/2021,TRUE
+CUST277,Victoria Island Key Enterprises #178,Key Account,Field Telesales,2,Hub-LOS-02,South West,Lagos,Victoria Island,15759951.24,9/25/2022,TRUE
+CUST278,Onitsha Modern Enterprises #179,Modern Retail Chain,Modern Trade EDI,10,Hub-ONI-01,South East,Anambra,Onitsha,11231078.61,8/8/2022,TRUE
+CUST279,Kaduna South Modern Enterprises #180,Modern Retail Chain,Field Telesales,9,Hub-KAD-01,North West,Kaduna,Kaduna South,6235988.25,8/29/2021,TRUE
+CUST280,Wuse II Traditional Enterprises #181,Traditional General Trade,Modern Trade EDI,6,Hub-ABJ-01,North Central,FCT Abuja,Wuse II,1292325.53,9/13/2021,TRUE
+CUST281,Nassarawa Modern Enterprises #182,Modern Retail Chain,Modern Trade EDI,8,Hub-KAN-01,North West,Kano,Nassarawa,3243657.64,3/11/2021,TRUE
+CUST282,Benin City Wholesale Enterprises #183,Wholesale Distributor,Distributor Portal,14,Hub-BEN-01,South South,Edo,Benin City,19499639.71,7/24/2022,TRUE
+CUST283,Nassarawa Traditional Enterprises #184,Traditional General Trade,E-Commerce B2B,8,Hub-KAN-01,North West,Kano,Nassarawa,2191532.22,11/9/2022,TRUE
+CUST284,Benin City Institutional Enterprises #185,Institutional / HoReCa,Direct Sales Force,14,Hub-BEN-01,South South,Edo,Benin City,3252676.3,9/11/2022,TRUE
+CUST285,Wuse II Key Enterprises #186,Key Account,Field Telesales,6,Hub-ABJ-01,North Central,FCT Abuja,Wuse II,17809423.13,1/29/2021,TRUE
+CUST286,Victoria Island Traditional Enterprises #187,Traditional General Trade,Direct Sales Force,2,Hub-LOS-02,South West,Lagos,Victoria Island,1863356.82,4/21/2021,TRUE
+CUST287,Port Harcourt Key Enterprises #188,Key Account,Modern Trade EDI,12,Hub-PHC-01,South South,Rivers,Port Harcourt,9941111.5,7/29/2022,TRUE
+CUST288,Benin City Traditional Enterprises #189,Traditional General Trade,Distributor Portal,14,Hub-BEN-01,South South,Edo,Benin City,771912.02,2/12/2021,TRUE
+CUST289,Ibadan Modern Enterprises #190,Modern Retail Chain,Distributor Portal,4,Hub-IBD-01,South West,Oyo,Ibadan,11636867.51,1/27/2022,TRUE
+CUST290,Port Harcourt Wholesale Enterprises #191,Wholesale Distributor,E-Commerce B2B,12,Hub-PHC-01,South South,Rivers,Port Harcourt,22258317.05,11/11/2022,TRUE
+CUST291,Kaduna South Key Enterprises #192,Key Account,Distributor Portal,9,Hub-KAD-01,North West,Kaduna,Kaduna South,13339679.91,8/16/2022,TRUE
+CUST292,Kaduna South Traditional Enterprises #193,Traditional General Trade,E-Commerce B2B,9,Hub-KAD-01,North West,Kaduna,Kaduna South,1452449.2,10/27/2022,TRUE
+CUST293,Wuse II Key Enterprises #194,Key Account,E-Commerce B2B,6,Hub-ABJ-01,North Central,FCT Abuja,Wuse II,21348629.31,8/4/2022,TRUE
+CUST294,Onitsha Traditional Enterprises #195,Traditional General Trade,Distributor Portal,10,Hub-ONI-01,South East,Anambra,Onitsha,1941486.69,2/18/2021,TRUE
+CUST295,Ikeja Traditional Enterprises #196,Traditional General Trade,Modern Trade EDI,1,Hub-LOS-01,South West,Lagos,Ikeja,2422074.91,4/30/2021,TRUE
+CUST296,Port Harcourt Key Enterprises #197,Key Account,Field Telesales,12,Hub-PHC-01,South South,Rivers,Port Harcourt,14250645.11,3/1/2022,TRUE
+CUST297,Gwagwalada Wholesale Enterprises #198,Wholesale Distributor,Modern Trade EDI,7,Hub-ABJ-02,North Central,FCT Abuja,Gwagwalada,10243174.26,5/18/2021,TRUE
+CUST298,Nassarawa Modern Enterprises #199,Modern Retail Chain,E-Commerce B2B,8,Hub-KAN-01,North West,Kano,Nassarawa,11731379.79,6/13/2021,TRUE
+CUST299,Port Harcourt Traditional Enterprises #200,Traditional General Trade,E-Commerce B2B,12,Hub-PHC-01,South South,Rivers,Port Harcourt,2311261.91,9/29/2022,TRUE
+CUST300,Victoria Island Key Enterprises #201,Key Account,Modern Trade EDI,2,Hub-LOS-02,South West,Lagos,Victoria Island,24854717.43,5/30/2021,TRUE
+CUST301,Nassarawa Key Enterprises #202,Key Account,Distributor Portal,8,Hub-KAN-01,North West,Kano,Nassarawa,9289709.5,5/31/2022,TRUE
+CUST302,Wuse II Institutional Enterprises #203,Institutional / HoReCa,Direct Sales Force,6,Hub-ABJ-01,North Central,FCT Abuja,Wuse II,631889.24,7/11/2022,TRUE
+CUST303,Port Harcourt Traditional Enterprises #204,Traditional General Trade,E-Commerce B2B,12,Hub-PHC-01,South South,Rivers,Port Harcourt,1988419,4/24/2021,TRUE
+CUST304,Warri Modern Enterprises #205,Modern Retail Chain,Modern Trade EDI,13,Hub-WAR-01,South South,Delta,Warri,2162730.29,8/2/2022,TRUE
+CUST305,Gwagwalada Wholesale Enterprises #206,Wholesale Distributor,Field Telesales,7,Hub-ABJ-02,North Central,FCT Abuja,Gwagwalada,8936064.29,5/19/2021,TRUE
+CUST306,Apapa Traditional Enterprises #207,Traditional General Trade,Direct Sales Force,3,Hub-LOS-03,South West,Lagos,Apapa,2947562.33,4/4/2021,TRUE
+CUST307,Onitsha Traditional Enterprises #208,Traditional General Trade,Distributor Portal,10,Hub-ONI-01,South East,Anambra,Onitsha,662539.58,11/20/2022,TRUE
+CUST308,Abeokuta Traditional Enterprises #209,Traditional General Trade,Modern Trade EDI,5,Hub-ABK-01,South West,Ogun,Abeokuta,3408362.41,12/6/2022,TRUE
+CUST309,Warri Modern Enterprises #210,Modern Retail Chain,Modern Trade EDI,13,Hub-WAR-01,South South,Delta,Warri,5556585.3,11/30/2021,TRUE
+CUST310,Apapa Key Enterprises #211,Key Account,Distributor Portal,3,Hub-LOS-03,South West,Lagos,Apapa,20047071.49,6/13/2022,TRUE
+CUST311,Victoria Island Institutional Enterprises #212,Institutional / HoReCa,E-Commerce B2B,2,Hub-LOS-02,South West,Lagos,Victoria Island,364321.94,3/23/2022,TRUE
+CUST312,Warri Institutional Enterprises #213,Institutional / HoReCa,Distributor Portal,13,Hub-WAR-01,South South,Delta,Warri,1926205.95,8/21/2022,TRUE
+CUST313,Ibadan Institutional Enterprises #214,Institutional / HoReCa,Direct Sales Force,4,Hub-IBD-01,South West,Oyo,Ibadan,409632.34,6/22/2021,TRUE
+CUST314,Benin City Wholesale Enterprises #215,Wholesale Distributor,Direct Sales Force,14,Hub-BEN-01,South South,Edo,Benin City,23030097.92,4/19/2021,TRUE
+CUST315,Nassarawa Traditional Enterprises #216,Traditional General Trade,Field Telesales,8,Hub-KAN-01,North West,Kano,Nassarawa,2851896.77,5/28/2021,TRUE
+CUST316,Onitsha Institutional Enterprises #217,Institutional / HoReCa,E-Commerce B2B,10,Hub-ONI-01,South East,Anambra,Onitsha,544381.94,4/4/2021,TRUE
+CUST317,Abeokuta Modern Enterprises #218,Modern Retail Chain,Field Telesales,5,Hub-ABK-01,South West,Ogun,Abeokuta,5472253.13,11/22/2022,TRUE
+CUST318,Victoria Island Wholesale Enterprises #219,Wholesale Distributor,Modern Trade EDI,2,Hub-LOS-02,South West,Lagos,Victoria Island,17196817.41,3/27/2022,TRUE
+CUST319,Abeokuta Modern Enterprises #220,Modern Retail Chain,E-Commerce B2B,5,Hub-ABK-01,South West,Ogun,Abeokuta,9080021.18,6/16/2021,TRUE
+CUST320,Independence Layout Wholesale Enterprises #221,Wholesale Distributor,E-Commerce B2B,11,Hub-ENU-01,South East,Enugu,Independence Layout,13697073.3,8/24/2022,TRUE
+CUST321,Victoria Island Modern Enterprises #222,Modern Retail Chain,E-Commerce B2B,2,Hub-LOS-02,South West,Lagos,Victoria Island,11945556.37,11/15/2021,TRUE
+CUST322,Nassarawa Modern Enterprises #223,Modern Retail Chain,Modern Trade EDI,8,Hub-KAN-01,North West,Kano,Nassarawa,7726044.63,12/12/2022,TRUE
+CUST323,Ikeja Traditional Enterprises #224,Traditional General Trade,Field Telesales,1,Hub-LOS-01,South West,Lagos,Ikeja,3439508.08,2/7/2021,TRUE
+CUST324,Gwagwalada Modern Enterprises #225,Modern Retail Chain,E-Commerce B2B,7,Hub-ABJ-02,North Central,FCT Abuja,Gwagwalada,10133242.23,6/8/2022,TRUE
+CUST325,Ikeja Traditional Enterprises #226,Traditional General Trade,E-Commerce B2B,1,Hub-LOS-01,South West,Lagos,Ikeja,2323294.42,11/9/2021,TRUE
+CUST326,Independence Layout Wholesale Enterprises #227,Wholesale Distributor,Field Telesales,11,Hub-ENU-01,South East,Enugu,Independence Layout,17616719.24,11/14/2021,TRUE
+CUST327,Onitsha Modern Enterprises #228,Modern Retail Chain,Modern Trade EDI,10,Hub-ONI-01,South East,Anambra,Onitsha,10027291.09,11/7/2021,TRUE
+CUST328,Ikeja Modern Enterprises #229,Modern Retail Chain,Field Telesales,1,Hub-LOS-01,South West,Lagos,Ikeja,9324640.35,1/24/2022,TRUE
+CUST329,Ibadan Wholesale Enterprises #230,Wholesale Distributor,Distributor Portal,4,Hub-IBD-01,South West,Oyo,Ibadan,19313570.5,4/3/2022,TRUE
+CUST330,Independence Layout Key Enterprises #231,Key Account,Distributor Portal,11,Hub-ENU-01,South East,Enugu,Independence Layout,5974519.48,3/14/2021,TRUE
+CUST331,Benin City Wholesale Enterprises #232,Wholesale Distributor,Distributor Portal,14,Hub-BEN-01,South South,Edo,Benin City,22363575.24,1/22/2022,TRUE
+CUST332,Apapa Wholesale Enterprises #233,Wholesale Distributor,Field Telesales,3,Hub-LOS-03,South West,Lagos,Apapa,13264110.84,7/3/2022,TRUE
+CUST333,Wuse II Wholesale Enterprises #234,Wholesale Distributor,Distributor Portal,6,Hub-ABJ-01,North Central,FCT Abuja,Wuse II,5363714.46,8/14/2021,TRUE
+CUST334,Port Harcourt Key Enterprises #235,Key Account,Field Telesales,12,Hub-PHC-01,South South,Rivers,Port Harcourt,20099751.89,11/5/2021,TRUE
+CUST335,Gwagwalada Traditional Enterprises #236,Traditional General Trade,Distributor Portal,7,Hub-ABJ-02,North Central,FCT Abuja,Gwagwalada,2916810.52,11/24/2021,TRUE
+CUST336,Abeokuta Wholesale Enterprises #237,Wholesale Distributor,Distributor Portal,5,Hub-ABK-01,South West,Ogun,Abeokuta,11321350.5,6/18/2021,TRUE
+CUST337,Gwagwalada Traditional Enterprises #238,Traditional General Trade,Direct Sales Force,7,Hub-ABJ-02,North Central,FCT Abuja,Gwagwalada,1136614.07,8/18/2021,TRUE
+CUST338,Ikeja Wholesale Enterprises #239,Wholesale Distributor,Modern Trade EDI,1,Hub-LOS-01,South West,Lagos,Ikeja,7809938.41,9/21/2022,TRUE
+CUST339,Wuse II Institutional Enterprises #240,Institutional / HoReCa,Distributor Portal,6,Hub-ABJ-01,North Central,FCT Abuja,Wuse II,2339744.88,12/30/2021,TRUE
+CUST340,Kaduna South Traditional Enterprises #241,Traditional General Trade,E-Commerce B2B,9,Hub-KAD-01,North West,Kaduna,Kaduna South,3202976.8,11/18/2021,TRUE
+CUST341,Warri Modern Enterprises #242,Modern Retail Chain,Field Telesales,13,Hub-WAR-01,South South,Delta,Warri,1665958.33,3/1/2021,TRUE
+CUST342,Gwagwalada Modern Enterprises #243,Modern Retail Chain,Modern Trade EDI,7,Hub-ABJ-02,North Central,FCT Abuja,Gwagwalada,7297708.38,11/26/2021,TRUE
+CUST343,Nassarawa Key Enterprises #244,Key Account,Field Telesales,8,Hub-KAN-01,North West,Kano,Nassarawa,20342612.03,6/14/2021,TRUE
+CUST344,Independence Layout Traditional Enterprises #245,Traditional General Trade,E-Commerce B2B,11,Hub-ENU-01,South East,Enugu,Independence Layout,1271630.81,3/28/2021,TRUE
+CUST345,Warri Wholesale Enterprises #246,Wholesale Distributor,E-Commerce B2B,13,Hub-WAR-01,South South,Delta,Warri,23623120.47,3/19/2022,TRUE
+CUST346,Benin City Wholesale Enterprises #247,Wholesale Distributor,Modern Trade EDI,14,Hub-BEN-01,South South,Edo,Benin City,6891674.42,6/7/2021,TRUE
+CUST347,Apapa Institutional Enterprises #248,Institutional / HoReCa,Field Telesales,3,Hub-LOS-03,South West,Lagos,Apapa,2960892.9,10/22/2021,TRUE
+CUST348,Onitsha Wholesale Enterprises #249,Wholesale Distributor,Direct Sales Force,10,Hub-ONI-01,South East,Anambra,Onitsha,8456013.49,6/14/2021,TRUE
+CUST349,Port Harcourt Wholesale Enterprises #250,Wholesale Distributor,Distributor Portal,12,Hub-PHC-01,South South,Rivers,Port Harcourt,20825662.21,5/10/2022,TRUE
+CUST350,Benin City Institutional Enterprises #251,Institutional / HoReCa,Distributor Portal,14,Hub-BEN-01,South South,Edo,Benin City,1647360.41,2/15/2022,TRUE
+CUST351,Ibadan Wholesale Enterprises #252,Wholesale Distributor,Field Telesales,4,Hub-IBD-01,South West,Oyo,Ibadan,19866610.22,7/21/2022,TRUE
+CUST352,Independence Layout Wholesale Enterprises #253,Wholesale Distributor,E-Commerce B2B,11,Hub-ENU-01,South East,Enugu,Independence Layout,15351265.65,5/9/2022,TRUE
+CUST353,Ikeja Key Enterprises #254,Key Account,Distributor Portal,1,Hub-LOS-01,South West,Lagos,Ikeja,14175579.46,6/1/2021,TRUE
+CUST354,Independence Layout Modern Enterprises #255,Modern Retail Chain,Direct Sales Force,11,Hub-ENU-01,South East,Enugu,Independence Layout,5401203.69,9/5/2021,TRUE
+CUST355,Independence Layout Wholesale Enterprises #256,Wholesale Distributor,Modern Trade EDI,11,Hub-ENU-01,South East,Enugu,Independence Layout,13286884.18,10/27/2021,TRUE
+CUST356,Nassarawa Traditional Enterprises #257,Traditional General Trade,Field Telesales,8,Hub-KAN-01,North West,Kano,Nassarawa,1588491.18,4/9/2021,TRUE
+CUST357,Benin City Institutional Enterprises #258,Institutional / HoReCa,Direct Sales Force,14,Hub-BEN-01,South South,Edo,Benin City,2621899.55,6/29/2021,TRUE
+CUST358,Benin City Modern Enterprises #259,Modern Retail Chain,Direct Sales Force,14,Hub-BEN-01,South South,Edo,Benin City,3446440.36,4/6/2021,TRUE
+CUST359,Apapa Wholesale Enterprises #260,Wholesale Distributor,Direct Sales Force,3,Hub-LOS-03,South West,Lagos,Apapa,22921110.06,8/5/2022,TRUE
+CUST360,Kaduna South Wholesale Enterprises #261,Wholesale Distributor,Distributor Portal,9,Hub-KAD-01,North West,Kaduna,Kaduna South,5538357.16,3/28/2021,TRUE
+CUST361,Ibadan Modern Enterprises #262,Modern Retail Chain,E-Commerce B2B,4,Hub-IBD-01,South West,Oyo,Ibadan,10390046.03,6/14/2021,TRUE
+CUST362,Ibadan Wholesale Enterprises #263,Wholesale Distributor,Direct Sales Force,4,Hub-IBD-01,South West,Oyo,Ibadan,20115368.67,7/29/2022,TRUE
+CUST363,Kaduna South Institutional Enterprises #264,Institutional / HoReCa,Field Telesales,9,Hub-KAD-01,North West,Kaduna,Kaduna South,3007237.45,9/14/2022,TRUE
+CUST364,Nassarawa Traditional Enterprises #265,Traditional General Trade,Direct Sales Force,8,Hub-KAN-01,North West,Kano,Nassarawa,2261478.24,1/31/2022,TRUE
+CUST365,Abeokuta Wholesale Enterprises #266,Wholesale Distributor,Direct Sales Force,5,Hub-ABK-01,South West,Ogun,Abeokuta,23616507.83,7/25/2022,TRUE
+CUST366,Benin City Traditional Enterprises #267,Traditional General Trade,Modern Trade EDI,14,Hub-BEN-01,South South,Edo,Benin City,2670505.52,5/17/2021,TRUE
+CUST367,Nassarawa Traditional Enterprises #268,Traditional General Trade,Field Telesales,8,Hub-KAN-01,North West,Kano,Nassarawa,632992.68,7/30/2021,TRUE
+CUST368,Abeokuta Modern Enterprises #269,Modern Retail Chain,Modern Trade EDI,5,Hub-ABK-01,South West,Ogun,Abeokuta,5648569.29,1/4/2022,TRUE
+CUST369,Kaduna South Institutional Enterprises #270,Institutional / HoReCa,Field Telesales,9,Hub-KAD-01,North West,Kaduna,Kaduna South,2643700.46,6/30/2021,TRUE
+CUST370,Ibadan Wholesale Enterprises #271,Wholesale Distributor,Modern Trade EDI,4,Hub-IBD-01,South West,Oyo,Ibadan,24114091.43,9/3/2021,TRUE
+CUST371,Port Harcourt Institutional Enterprises #272,Institutional / HoReCa,Direct Sales Force,12,Hub-PHC-01,South South,Rivers,Port Harcourt,1394164.69,12/20/2022,TRUE
+CUST372,Onitsha Institutional Enterprises #273,Institutional / HoReCa,Modern Trade EDI,10,Hub-ONI-01,South East,Anambra,Onitsha,1590218.47,6/12/2021,TRUE
+CUST373,Victoria Island Wholesale Enterprises #274,Wholesale Distributor,Modern Trade EDI,2,Hub-LOS-02,South West,Lagos,Victoria Island,11112621.16,7/30/2022,TRUE
+CUST374,Gwagwalada Wholesale Enterprises #275,Wholesale Distributor,E-Commerce B2B,7,Hub-ABJ-02,North Central,FCT Abuja,Gwagwalada,10079272.24,7/2/2021,TRUE
+CUST375,Independence Layout Traditional Enterprises #276,Traditional General Trade,E-Commerce B2B,11,Hub-ENU-01,South East,Enugu,Independence Layout,329465.23,8/29/2022,TRUE
+CUST376,Warri Traditional Enterprises #277,Traditional General Trade,Field Telesales,13,Hub-WAR-01,South South,Delta,Warri,429432.36,3/18/2022,TRUE
+CUST377,Gwagwalada Traditional Enterprises #278,Traditional General Trade,Field Telesales,7,Hub-ABJ-02,North Central,FCT Abuja,Gwagwalada,1538417.76,1/23/2021,TRUE
+CUST378,Warri Traditional Enterprises #279,Traditional General Trade,Direct Sales Force,13,Hub-WAR-01,South South,Delta,Warri,3066478.7,1/29/2022,TRUE
+CUST379,Ibadan Institutional Enterprises #280,Institutional / HoReCa,Distributor Portal,4,Hub-IBD-01,South West,Oyo,Ibadan,1976701.45,6/7/2021,TRUE
+CUST380,Port Harcourt Wholesale Enterprises #281,Wholesale Distributor,Distributor Portal,12,Hub-PHC-01,South South,Rivers,Port Harcourt,24066594.11,10/25/2021,TRUE
+CUST381,Ikeja Traditional Enterprises #282,Traditional General Trade,Distributor Portal,1,Hub-LOS-01,South West,Lagos,Ikeja,1977741.99,6/28/2022,TRUE
+CUST382,Victoria Island Traditional Enterprises #283,Traditional General Trade,Modern Trade EDI,2,Hub-LOS-02,South West,Lagos,Victoria Island,3136190.76,8/15/2021,TRUE
+CUST383,Apapa Wholesale Enterprises #284,Wholesale Distributor,E-Commerce B2B,3,Hub-LOS-03,South West,Lagos,Apapa,5673114.25,2/27/2022,TRUE
+CUST384,Apapa Institutional Enterprises #285,Institutional / HoReCa,E-Commerce B2B,3,Hub-LOS-03,South West,Lagos,Apapa,799687.8,8/26/2022,TRUE
+CUST385,Abeokuta Key Enterprises #286,Key Account,Direct Sales Force,5,Hub-ABK-01,South West,Ogun,Abeokuta,4104352.02,3/29/2021,TRUE
+CUST386,Victoria Island Wholesale Enterprises #287,Wholesale Distributor,Direct Sales Force,2,Hub-LOS-02,South West,Lagos,Victoria Island,15555404.88,1/21/2022,TRUE
+CUST387,Port Harcourt Traditional Enterprises #288,Traditional General Trade,Modern Trade EDI,12,Hub-PHC-01,South South,Rivers,Port Harcourt,2325019.47,10/6/2022,TRUE
+CUST388,Benin City Modern Enterprises #289,Modern Retail Chain,Field Telesales,14,Hub-BEN-01,South South,Edo,Benin City,6410350.75,5/30/2022,TRUE
+CUST389,Abeokuta Traditional Enterprises #290,Traditional General Trade,Field Telesales,5,Hub-ABK-01,South West,Ogun,Abeokuta,748977.53,7/10/2021,TRUE
+CUST390,Port Harcourt Wholesale Enterprises #291,Wholesale Distributor,E-Commerce B2B,12,Hub-PHC-01,South South,Rivers,Port Harcourt,21769216.69,11/27/2022,TRUE
+CUST391,Onitsha Traditional Enterprises #292,Traditional General Trade,Distributor Portal,10,Hub-ONI-01,South East,Anambra,Onitsha,954022.68,8/13/2021,TRUE
+CUST392,Onitsha Wholesale Enterprises #293,Wholesale Distributor,E-Commerce B2B,10,Hub-ONI-01,South East,Anambra,Onitsha,9021267.56,12/20/2022,TRUE
+CUST393,Nassarawa Traditional Enterprises #294,Traditional General Trade,Modern Trade EDI,8,Hub-KAN-01,North West,Kano,Nassarawa,2276525.7,3/22/2022,TRUE
+CUST394,Abeokuta Traditional Enterprises #295,Traditional General Trade,Field Telesales,5,Hub-ABK-01,South West,Ogun,Abeokuta,490729.3,2/13/2022,TRUE
+CUST395,Onitsha Modern Enterprises #296,Modern Retail Chain,Modern Trade EDI,10,Hub-ONI-01,South East,Anambra,Onitsha,3834863.24,3/5/2021,TRUE
+CUST396,Port Harcourt Wholesale Enterprises #297,Wholesale Distributor,Field Telesales,12,Hub-PHC-01,South South,Rivers,Port Harcourt,14780461.43,9/10/2022,TRUE
+CUST397,Port Harcourt Modern Enterprises #298,Modern Retail Chain,Modern Trade EDI,12,Hub-PHC-01,South South,Rivers,Port Harcourt,8007053.59,12/31/2021,TRUE
+CUST398,Benin City Traditional Enterprises #299,Traditional General Trade,Modern Trade EDI,14,Hub-BEN-01,South South,Edo,Benin City,2646924.2,4/14/2022,TRUE
+CUST399,Kaduna South Modern Enterprises #300,Modern Retail Chain,Field Telesales,9,Hub-KAD-01,North West,Kaduna,Kaduna South,11177692.33,12/18/2021,TRUE
+CUST400,Nassarawa Institutional Enterprises #301,Institutional / HoReCa,Modern Trade EDI,8,Hub-KAN-01,North West,Kano,Nassarawa,837874.4,1/10/2022,TRUE
+CUST401,Gwagwalada Key Enterprises #302,Key Account,Modern Trade EDI,7,Hub-ABJ-02,North Central,FCT Abuja,Gwagwalada,12218777.37,1/1/2021,TRUE
+CUST402,Nassarawa Key Enterprises #303,Key Account,Field Telesales,8,Hub-KAN-01,North West,Kano,Nassarawa,5971370.32,6/7/2021,TRUE
+CUST403,Nassarawa Wholesale Enterprises #304,Wholesale Distributor,Modern Trade EDI,8,Hub-KAN-01,North West,Kano,Nassarawa,9840363.15,4/3/2022,TRUE
+CUST404,Abeokuta Traditional Enterprises #305,Traditional General Trade,Modern Trade EDI,5,Hub-ABK-01,South West,Ogun,Abeokuta,3193823.52,4/22/2021,TRUE
+CUST405,Ibadan Traditional Enterprises #306,Traditional General Trade,Modern Trade EDI,4,Hub-IBD-01,South West,Oyo,Ibadan,3496192.99,9/13/2022,TRUE
+CUST406,Independence Layout Wholesale Enterprises #307,Wholesale Distributor,Distributor Portal,11,Hub-ENU-01,South East,Enugu,Independence Layout,15605006.68,5/14/2022,TRUE
+CUST407,Ibadan Institutional Enterprises #308,Institutional / HoReCa,Direct Sales Force,4,Hub-IBD-01,South West,Oyo,Ibadan,2326838.43,1/20/2022,TRUE
+CUST408,Wuse II Wholesale Enterprises #309,Wholesale Distributor,E-Commerce B2B,6,Hub-ABJ-01,North Central,FCT Abuja,Wuse II,21238833.73,10/4/2021,TRUE
+CUST409,Nassarawa Modern Enterprises #310,Modern Retail Chain,Distributor Portal,8,Hub-KAN-01,North West,Kano,Nassarawa,11842990.32,12/21/2022,TRUE
+CUST410,Kaduna South Wholesale Enterprises #311,Wholesale Distributor,Field Telesales,9,Hub-KAD-01,North West,Kaduna,Kaduna South,14813863.93,1/28/2021,TRUE
+CUST411,Abeokuta Modern Enterprises #312,Modern Retail Chain,Modern Trade EDI,5,Hub-ABK-01,South West,Ogun,Abeokuta,5787391.74,4/10/2022,TRUE
+CUST412,Port Harcourt Wholesale Enterprises #313,Wholesale Distributor,Distributor Portal,12,Hub-PHC-01,South South,Rivers,Port Harcourt,6746024.73,1/21/2022,TRUE
+CUST413,Victoria Island Modern Enterprises #314,Modern Retail Chain,Direct Sales Force,2,Hub-LOS-02,South West,Lagos,Victoria Island,9473081.55,6/16/2021,TRUE
+CUST414,Apapa Wholesale Enterprises #315,Wholesale Distributor,Direct Sales Force,3,Hub-LOS-03,South West,Lagos,Apapa,17257139.37,3/23/2021,TRUE
+CUST415,Apapa Key Enterprises #316,Key Account,Direct Sales Force,3,Hub-LOS-03,South West,Lagos,Apapa,15588864.2,2/10/2021,FALSE
+CUST416,Ikeja Wholesale Enterprises #317,Wholesale Distributor,E-Commerce B2B,1,Hub-LOS-01,South West,Lagos,Ikeja,12505480.63,1/14/2022,TRUE
+CUST417,Kaduna South Key Enterprises #318,Key Account,Modern Trade EDI,9,Hub-KAD-01,North West,Kaduna,Kaduna South,22593680.91,8/10/2022,FALSE
+CUST418,Nassarawa Institutional Enterprises #319,Institutional / HoReCa,Direct Sales Force,8,Hub-KAN-01,North West,Kano,Nassarawa,737628.63,9/4/2021,TRUE
+CUST419,Nassarawa Traditional Enterprises #320,Traditional General Trade,Direct Sales Force,8,Hub-KAN-01,North West,Kano,Nassarawa,2198137.13,6/14/2022,TRUE
+CUST420,Warri Wholesale Enterprises #321,Wholesale Distributor,Modern Trade EDI,13,Hub-WAR-01,South South,Delta,Warri,10592491.61,11/4/2022,TRUE
+CUST421,Gwagwalada Key Enterprises #322,Key Account,Direct Sales Force,7,Hub-ABJ-02,North Central,FCT Abuja,Gwagwalada,18506710.32,9/15/2021,FALSE
+CUST422,Abeokuta Traditional Enterprises #323,Traditional General Trade,Modern Trade EDI,5,Hub-ABK-01,South West,Ogun,Abeokuta,2774107.42,6/30/2021,TRUE
+CUST423,Kaduna South Traditional Enterprises #324,Traditional General Trade,Direct Sales Force,9,Hub-KAD-01,North West,Kaduna,Kaduna South,1793822.94,3/17/2021,TRUE
+CUST424,Onitsha Key Enterprises #325,Key Account,Distributor Portal,10,Hub-ONI-01,South East,Anambra,Onitsha,12735124.04,9/24/2022,TRUE
+CUST425,Ibadan Wholesale Enterprises #326,Wholesale Distributor,Direct Sales Force,4,Hub-IBD-01,South West,Oyo,Ibadan,23327950.05,8/25/2022,TRUE
+CUST426,Kaduna South Key Enterprises #327,Key Account,E-Commerce B2B,9,Hub-KAD-01,North West,Kaduna,Kaduna South,23918397.78,8/10/2021,FALSE
+CUST427,Warri Traditional Enterprises #328,Traditional General Trade,Field Telesales,13,Hub-WAR-01,South South,Delta,Warri,3194182.21,12/10/2022,TRUE
+CUST428,Apapa Key Enterprises #329,Key Account,Modern Trade EDI,3,Hub-LOS-03,South West,Lagos,Apapa,16311135.76,2/18/2021,TRUE
+CUST429,Port Harcourt Modern Enterprises #330,Modern Retail Chain,Field Telesales,12,Hub-PHC-01,South South,Rivers,Port Harcourt,3112587.68,2/22/2022,TRUE
+CUST430,Onitsha Traditional Enterprises #331,Traditional General Trade,Direct Sales Force,10,Hub-ONI-01,South East,Anambra,Onitsha,1785523.2,5/14/2021,TRUE
+CUST431,Port Harcourt Wholesale Enterprises #332,Wholesale Distributor,E-Commerce B2B,12,Hub-PHC-01,South South,Rivers,Port Harcourt,18995300.68,12/9/2022,TRUE
+CUST432,Benin City Wholesale Enterprises #333,Wholesale Distributor,Direct Sales Force,14,Hub-BEN-01,South South,Edo,Benin City,23707789.01,6/16/2022,TRUE
+CUST433,Gwagwalada Wholesale Enterprises #334,Wholesale Distributor,E-Commerce B2B,7,Hub-ABJ-02,North Central,FCT Abuja,Gwagwalada,11009511.77,9/20/2022,TRUE
+CUST434,Independence Layout Traditional Enterprises #335,Traditional General Trade,Distributor Portal,11,Hub-ENU-01,South East,Enugu,Independence Layout,1088155.53,12/15/2021,TRUE
+CUST435,Warri Institutional Enterprises #336,Institutional / HoReCa,Modern Trade EDI,13,Hub-WAR-01,South South,Delta,Warri,537307.44,4/20/2021,TRUE
+CUST436,Warri Key Enterprises #337,Key Account,Distributor Portal,13,Hub-WAR-01,South South,Delta,Warri,19459840.29,10/31/2021,TRUE
+CUST437,Gwagwalada Wholesale Enterprises #338,Wholesale Distributor,Direct Sales Force,7,Hub-ABJ-02,North Central,FCT Abuja,Gwagwalada,14201618.03,9/10/2022,TRUE
+CUST438,Ikeja Institutional Enterprises #339,Institutional / HoReCa,Modern Trade EDI,1,Hub-LOS-01,South West,Lagos,Ikeja,626671.31,7/3/2021,TRUE
+CUST439,Onitsha Modern Enterprises #340,Modern Retail Chain,Distributor Portal,10,Hub-ONI-01,South East,Anambra,Onitsha,3103246.41,4/14/2021,TRUE
+CUST440,Victoria Island Wholesale Enterprises #341,Wholesale Distributor,Direct Sales Force,2,Hub-LOS-02,South West,Lagos,Victoria Island,12424242.17,11/28/2021,TRUE
+CUST441,Victoria Island Traditional Enterprises #342,Traditional General Trade,Distributor Portal,2,Hub-LOS-02,South West,Lagos,Victoria Island,354141.67,7/24/2021,TRUE
+CUST442,Abeokuta Traditional Enterprises #343,Traditional General Trade,Distributor Portal,5,Hub-ABK-01,South West,Ogun,Abeokuta,294776.4,7/9/2022,TRUE
+CUST443,Victoria Island Modern Enterprises #344,Modern Retail Chain,Distributor Portal,2,Hub-LOS-02,South West,Lagos,Victoria Island,10008176.83,10/15/2021,TRUE
+CUST444,Port Harcourt Traditional Enterprises #345,Traditional General Trade,Modern Trade EDI,12,Hub-PHC-01,South South,Rivers,Port Harcourt,1924183.47,4/16/2021,TRUE
+CUST445,Ikeja Modern Enterprises #346,Modern Retail Chain,Field Telesales,1,Hub-LOS-01,South West,Lagos,Ikeja,9719615.94,3/15/2021,TRUE
+CUST446,Abeokuta Traditional Enterprises #347,Traditional General Trade,Direct Sales Force,5,Hub-ABK-01,South West,Ogun,Abeokuta,1175624.66,6/30/2021,TRUE
+CUST447,Independence Layout Traditional Enterprises #348,Traditional General Trade,Distributor Portal,11,Hub-ENU-01,South East,Enugu,Independence Layout,3438265.64,11/10/2022,TRUE
+CUST448,Wuse II Traditional Enterprises #349,Traditional General Trade,Modern Trade EDI,6,Hub-ABJ-01,North Central,FCT Abuja,Wuse II,1342928.95,1/27/2022,TRUE
+CUST449,Apapa Key Enterprises #350,Key Account,Direct Sales Force,3,Hub-LOS-03,South West,Lagos,Apapa,21459728.99,11/27/2021,TRUE
+CUST450,Ikeja Institutional Enterprises #351,Institutional / HoReCa,Modern Trade EDI,1,Hub-LOS-01,South West,Lagos,Ikeja,675494.26,8/1/2021,TRUE
+CUST451,Gwagwalada Institutional Enterprises #352,Institutional / HoReCa,E-Commerce B2B,7,Hub-ABJ-02,North Central,FCT Abuja,Gwagwalada,1888207.7,7/14/2021,TRUE
+CUST452,Nassarawa Institutional Enterprises #353,Institutional / HoReCa,Modern Trade EDI,8,Hub-KAN-01,North West,Kano,Nassarawa,3406189.24,6/18/2022,TRUE
+CUST453,Nassarawa Modern Enterprises #354,Modern Retail Chain,Field Telesales,8,Hub-KAN-01,North West,Kano,Nassarawa,6206649.72,9/20/2022,TRUE
+CUST454,Wuse II Modern Enterprises #355,Modern Retail Chain,E-Commerce B2B,6,Hub-ABJ-01,North Central,FCT Abuja,Wuse II,11753534.2,8/29/2021,TRUE
+CUST455,Nassarawa Wholesale Enterprises #356,Wholesale Distributor,Direct Sales Force,8,Hub-KAN-01,North West,Kano,Nassarawa,11316348.47,1/23/2021,TRUE
+CUST456,Independence Layout Wholesale Enterprises #357,Wholesale Distributor,Field Telesales,11,Hub-ENU-01,South East,Enugu,Independence Layout,8428197.13,1/6/2022,TRUE
+CUST457,Onitsha Wholesale Enterprises #358,Wholesale Distributor,Distributor Portal,10,Hub-ONI-01,South East,Anambra,Onitsha,12996458.42,6/8/2022,TRUE
+CUST458,Victoria Island Traditional Enterprises #359,Traditional General Trade,E-Commerce B2B,2,Hub-LOS-02,South West,Lagos,Victoria Island,3175296.65,7/14/2021,TRUE
+CUST459,Apapa Key Enterprises #360,Key Account,Modern Trade EDI,3,Hub-LOS-03,South West,Lagos,Apapa,5288606.22,12/28/2021,TRUE
+CUST460,Onitsha Wholesale Enterprises #361,Wholesale Distributor,Field Telesales,10,Hub-ONI-01,South East,Anambra,Onitsha,23580413.98,8/5/2021,TRUE
+CUST461,Port Harcourt Traditional Enterprises #362,Traditional General Trade,Modern Trade EDI,12,Hub-PHC-01,South South,Rivers,Port Harcourt,3476625.86,6/5/2022,TRUE
+CUST462,Nassarawa Modern Enterprises #363,Modern Retail Chain,Direct Sales Force,8,Hub-KAN-01,North West,Kano,Nassarawa,3368081.13,8/26/2022,TRUE
+CUST463,Nassarawa Key Enterprises #364,Key Account,Direct Sales Force,8,Hub-KAN-01,North West,Kano,Nassarawa,8452921.25,11/9/2022,FALSE
+CUST464,Benin City Wholesale Enterprises #365,Wholesale Distributor,Direct Sales Force,14,Hub-BEN-01,South South,Edo,Benin City,3238224.99,9/3/2021,TRUE
+CUST465,Ibadan Wholesale Enterprises #366,Wholesale Distributor,E-Commerce B2B,4,Hub-IBD-01,South West,Oyo,Ibadan,11166274.09,10/4/2021,TRUE
+CUST466,Abeokuta Key Enterprises #367,Key Account,Distributor Portal,5,Hub-ABK-01,South West,Ogun,Abeokuta,7047571.75,3/18/2022,TRUE
+CUST467,Ikeja Institutional Enterprises #368,Institutional / HoReCa,Distributor Portal,1,Hub-LOS-01,South West,Lagos,Ikeja,1888712.91,11/9/2022,TRUE
+CUST468,Benin City Traditional Enterprises #369,Traditional General Trade,Distributor Portal,14,Hub-BEN-01,South South,Edo,Benin City,2993885.16,2/19/2021,TRUE
+CUST469,Independence Layout Modern Enterprises #370,Modern Retail Chain,Direct Sales Force,11,Hub-ENU-01,South East,Enugu,Independence Layout,9967186.65,7/14/2022,TRUE
+CUST470,Ikeja Key Enterprises #371,Key Account,E-Commerce B2B,1,Hub-LOS-01,South West,Lagos,Ikeja,19827041.16,11/8/2022,TRUE
+CUST471,Benin City Traditional Enterprises #372,Traditional General Trade,Direct Sales Force,14,Hub-BEN-01,South South,Edo,Benin City,2753107.59,1/25/2021,TRUE
+CUST472,Port Harcourt Traditional Enterprises #373,Traditional General Trade,Field Telesales,12,Hub-PHC-01,South South,Rivers,Port Harcourt,1146752.49,9/12/2021,TRUE
+CUST473,Victoria Island Key Enterprises #374,Key Account,Field Telesales,2,Hub-LOS-02,South West,Lagos,Victoria Island,8467302.76,11/24/2021,TRUE
+CUST474,Port Harcourt Traditional Enterprises #375,Traditional General Trade,Modern Trade EDI,12,Hub-PHC-01,South South,Rivers,Port Harcourt,3154665.17,5/16/2021,TRUE
+CUST475,Ibadan Wholesale Enterprises #376,Wholesale Distributor,Field Telesales,4,Hub-IBD-01,South West,Oyo,Ibadan,11899223.94,1/2/2022,TRUE
+CUST476,Wuse II Wholesale Enterprises #377,Wholesale Distributor,Modern Trade EDI,6,Hub-ABJ-01,North Central,FCT Abuja,Wuse II,15230279.94,7/14/2022,TRUE
+CUST477,Abeokuta Traditional Enterprises #378,Traditional General Trade,E-Commerce B2B,5,Hub-ABK-01,South West,Ogun,Abeokuta,3401757.63,7/7/2021,TRUE
+CUST478,Gwagwalada Traditional Enterprises #379,Traditional General Trade,E-Commerce B2B,7,Hub-ABJ-02,North Central,FCT Abuja,Gwagwalada,1960995.29,5/2/2021,TRUE
+CUST479,Victoria Island Traditional Enterprises #380,Traditional General Trade,Distributor Portal,2,Hub-LOS-02,South West,Lagos,Victoria Island,1106210.27,3/3/2022,TRUE
+CUST480,Benin City Traditional Enterprises #381,Traditional General Trade,Direct Sales Force,14,Hub-BEN-01,South South,Edo,Benin City,441257.75,10/7/2021,TRUE
+CUST481,Independence Layout Traditional Enterprises #382,Traditional General Trade,Direct Sales Force,11,Hub-ENU-01,South East,Enugu,Independence Layout,1914789.66,2/19/2021,TRUE
+CUST482,Ikeja Key Enterprises #383,Key Account,Field Telesales,1,Hub-LOS-01,South West,Lagos,Ikeja,22631393.09,10/19/2021,TRUE
+CUST483,Benin City Wholesale Enterprises #384,Wholesale Distributor,Direct Sales Force,14,Hub-BEN-01,South South,Edo,Benin City,18656402.57,3/5/2022,TRUE
+CUST484,Gwagwalada Key Enterprises #385,Key Account,Direct Sales Force,7,Hub-ABJ-02,North Central,FCT Abuja,Gwagwalada,12745422.73,6/11/2022,TRUE
+CUST485,Benin City Modern Enterprises #386,Modern Retail Chain,Field Telesales,14,Hub-BEN-01,South South,Edo,Benin City,2421473.52,11/5/2022,TRUE
+CUST486,Kaduna South Institutional Enterprises #387,Institutional / HoReCa,E-Commerce B2B,9,Hub-KAD-01,North West,Kaduna,Kaduna South,1404285.88,9/9/2021,TRUE
+CUST487,Abeokuta Modern Enterprises #388,Modern Retail Chain,Distributor Portal,5,Hub-ABK-01,South West,Ogun,Abeokuta,10932941.53,5/19/2021,TRUE
+CUST488,Gwagwalada Key Enterprises #389,Key Account,Field Telesales,7,Hub-ABJ-02,North Central,FCT Abuja,Gwagwalada,17208935.63,3/8/2022,TRUE
+CUST489,Ikeja Traditional Enterprises #390,Traditional General Trade,Modern Trade EDI,1,Hub-LOS-01,South West,Lagos,Ikeja,3337016.98,3/10/2021,TRUE
+CUST490,Wuse II Wholesale Enterprises #391,Wholesale Distributor,E-Commerce B2B,6,Hub-ABJ-01,North Central,FCT Abuja,Wuse II,10787743.69,9/13/2022,TRUE
+CUST491,Abeokuta Wholesale Enterprises #392,Wholesale Distributor,E-Commerce B2B,5,Hub-ABK-01,South West,Ogun,Abeokuta,10799763.57,2/14/2021,TRUE
+CUST492,Onitsha Wholesale Enterprises #393,Wholesale Distributor,Distributor Portal,10,Hub-ONI-01,South East,Anambra,Onitsha,16606427.66,5/24/2022,TRUE
+CUST493,Ibadan Wholesale Enterprises #394,Wholesale Distributor,Field Telesales,4,Hub-IBD-01,South West,Oyo,Ibadan,19866862.17,1/25/2022,TRUE
+CUST494,Abeokuta Institutional Enterprises #395,Institutional / HoReCa,Modern Trade EDI,5,Hub-ABK-01,South West,Ogun,Abeokuta,3206842.12,8/7/2021,TRUE
+CUST495,Nassarawa Key Enterprises #396,Key Account,Field Telesales,8,Hub-KAN-01,North West,Kano,Nassarawa,18212164.18,11/10/2021,TRUE
+CUST496,Port Harcourt Key Enterprises #397,Key Account,Modern Trade EDI,12,Hub-PHC-01,South South,Rivers,Port Harcourt,5347685.32,11/20/2021,TRUE
+CUST497,Nassarawa Modern Enterprises #398,Modern Retail Chain,Direct Sales Force,8,Hub-KAN-01,North West,Kano,Nassarawa,10628299.18,6/13/2022,TRUE
+CUST498,Warri Traditional Enterprises #399,Traditional General Trade,Field Telesales,13,Hub-WAR-01,South South,Delta,Warri,3074424.81,3/8/2022,FALSE
+CUST499,Port Harcourt Traditional Enterprises #400,Traditional General Trade,Field Telesales,12,Hub-PHC-01,South South,Rivers,Port Harcourt,3046124.15,6/7/2021,TRUE
+CUST500,Gwagwalada Wholesale Enterprises #401,Wholesale Distributor,Modern Trade EDI,7,Hub-ABJ-02,North Central,FCT Abuja,Gwagwalada,18334998.13,10/17/2022,TRUE
+CUST501,Abeokuta Key Enterprises #402,Key Account,Modern Trade EDI,5,Hub-ABK-01,South West,Ogun,Abeokuta,19694732.87,10/11/2022,TRUE
+CUST502,Ibadan Institutional Enterprises #403,Institutional / HoReCa,Distributor Portal,4,Hub-IBD-01,South West,Oyo,Ibadan,2234196.51,5/1/2021,TRUE
+CUST503,Onitsha Wholesale Enterprises #404,Wholesale Distributor,Field Telesales,10,Hub-ONI-01,South East,Anambra,Onitsha,18890842.01,1/29/2021,TRUE
+CUST504,Warri Traditional Enterprises #405,Traditional General Trade,Direct Sales Force,13,Hub-WAR-01,South South,Delta,Warri,2708634.91,12/23/2022,TRUE
+CUST505,Benin City Modern Enterprises #406,Modern Retail Chain,E-Commerce B2B,14,Hub-BEN-01,South South,Edo,Benin City,4908758.5,11/15/2021,TRUE
+CUST506,Nassarawa Traditional Enterprises #407,Traditional General Trade,Modern Trade EDI,8,Hub-KAN-01,North West,Kano,Nassarawa,3483780.61,4/8/2022,TRUE
+CUST507,Warri Modern Enterprises #408,Modern Retail Chain,Direct Sales Force,13,Hub-WAR-01,South South,Delta,Warri,5197264.98,5/12/2021,TRUE
+CUST508,Ibadan Traditional Enterprises #409,Traditional General Trade,Direct Sales Force,4,Hub-IBD-01,South West,Oyo,Ibadan,3237548.14,8/25/2022,FALSE
+CUST509,Gwagwalada Key Enterprises #410,Key Account,Direct Sales Force,7,Hub-ABJ-02,North Central,FCT Abuja,Gwagwalada,4306239.71,10/22/2021,TRUE
+CUST510,Wuse II Wholesale Enterprises #411,Wholesale Distributor,E-Commerce B2B,6,Hub-ABJ-01,North Central,FCT Abuja,Wuse II,15406915.05,3/31/2021,TRUE
+CUST511,Apapa Traditional Enterprises #412,Traditional General Trade,Direct Sales Force,3,Hub-LOS-03,South West,Lagos,Apapa,2936977.67,10/3/2021,TRUE
+CUST512,Independence Layout Traditional Enterprises #413,Traditional General Trade,Modern Trade EDI,11,Hub-ENU-01,South East,Enugu,Independence Layout,1451107.72,6/3/2021,TRUE
+CUST513,Warri Key Enterprises #414,Key Account,Distributor Portal,13,Hub-WAR-01,South South,Delta,Warri,4055608.66,5/5/2021,TRUE
+CUST514,Benin City Traditional Enterprises #415,Traditional General Trade,Distributor Portal,14,Hub-BEN-01,South South,Edo,Benin City,3053280.35,1/2/2021,TRUE
+CUST515,Ikeja Key Enterprises #416,Key Account,Distributor Portal,1,Hub-LOS-01,South West,Lagos,Ikeja,3766498.29,1/18/2021,TRUE
+CUST516,Independence Layout Traditional Enterprises #417,Traditional General Trade,Distributor Portal,11,Hub-ENU-01,South East,Enugu,Independence Layout,2835457.96,7/15/2022,TRUE
+CUST517,Wuse II Modern Enterprises #418,Modern Retail Chain,E-Commerce B2B,6,Hub-ABJ-01,North Central,FCT Abuja,Wuse II,3076360.35,12/24/2022,TRUE
+CUST518,Benin City Modern Enterprises #419,Modern Retail Chain,Direct Sales Force,14,Hub-BEN-01,South South,Edo,Benin City,8484746.64,3/13/2021,TRUE
+CUST519,Warri Wholesale Enterprises #420,Wholesale Distributor,E-Commerce B2B,13,Hub-WAR-01,South South,Delta,Warri,10748073.93,11/2/2021,TRUE
+CUST520,Ibadan Wholesale Enterprises #421,Wholesale Distributor,Modern Trade EDI,4,Hub-IBD-01,South West,Oyo,Ibadan,8144190.06,5/24/2022,TRUE
+CUST521,Abeokuta Wholesale Enterprises #422,Wholesale Distributor,E-Commerce B2B,5,Hub-ABK-01,South West,Ogun,Abeokuta,16047686.32,9/29/2022,TRUE
+CUST522,Gwagwalada Traditional Enterprises #423,Traditional General Trade,Field Telesales,7,Hub-ABJ-02,North Central,FCT Abuja,Gwagwalada,739451.93,3/13/2021,FALSE
+CUST523,Ibadan Key Enterprises #424,Key Account,Distributor Portal,4,Hub-IBD-01,South West,Oyo,Ibadan,24711692.47,7/11/2022,TRUE
+CUST524,Abeokuta Key Enterprises #425,Key Account,Field Telesales,5,Hub-ABK-01,South West,Ogun,Abeokuta,19511693.85,9/13/2022,TRUE
+CUST525,Kaduna South Key Enterprises #426,Key Account,Distributor Portal,9,Hub-KAD-01,North West,Kaduna,Kaduna South,24803004.13,3/11/2022,TRUE
+CUST526,Wuse II Wholesale Enterprises #427,Wholesale Distributor,Direct Sales Force,6,Hub-ABJ-01,North Central,FCT Abuja,Wuse II,15920014.74,10/13/2021,TRUE
+CUST527,Nassarawa Traditional Enterprises #428,Traditional General Trade,Modern Trade EDI,8,Hub-KAN-01,North West,Kano,Nassarawa,2868761.27,10/14/2022,TRUE
+CUST528,Nassarawa Wholesale Enterprises #429,Wholesale Distributor,Modern Trade EDI,8,Hub-KAN-01,North West,Kano,Nassarawa,23468748.31,9/30/2022,TRUE
+CUST529,Abeokuta Institutional Enterprises #430,Institutional / HoReCa,Modern Trade EDI,5,Hub-ABK-01,South West,Ogun,Abeokuta,1996672.11,11/1/2021,TRUE
+CUST530,Abeokuta Wholesale Enterprises #431,Wholesale Distributor,Direct Sales Force,5,Hub-ABK-01,South West,Ogun,Abeokuta,4015921.87,12/15/2022,TRUE
+CUST531,Nassarawa Wholesale Enterprises #432,Wholesale Distributor,Direct Sales Force,8,Hub-KAN-01,North West,Kano,Nassarawa,19719727.54,5/25/2021,TRUE
+CUST532,Apapa Traditional Enterprises #433,Traditional General Trade,E-Commerce B2B,3,Hub-LOS-03,South West,Lagos,Apapa,2498502.95,3/19/2021,TRUE
+CUST533,Ikeja Traditional Enterprises #434,Traditional General Trade,Direct Sales Force,1,Hub-LOS-01,South West,Lagos,Ikeja,2584639.33,8/28/2022,TRUE
+CUST534,Gwagwalada Traditional Enterprises #435,Traditional General Trade,Distributor Portal,7,Hub-ABJ-02,North Central,FCT Abuja,Gwagwalada,2159445.79,5/20/2021,TRUE
+CUST535,Benin City Modern Enterprises #436,Modern Retail Chain,Field Telesales,14,Hub-BEN-01,South South,Edo,Benin City,11975507.62,7/6/2022,TRUE
+CUST536,Ikeja Traditional Enterprises #437,Traditional General Trade,Distributor Portal,1,Hub-LOS-01,South West,Lagos,Ikeja,2107601.8,9/4/2021,TRUE
+CUST537,Gwagwalada Modern Enterprises #438,Modern Retail Chain,E-Commerce B2B,7,Hub-ABJ-02,North Central,FCT Abuja,Gwagwalada,7644509.19,3/2/2022,TRUE
+CUST538,Kaduna South Traditional Enterprises #439,Traditional General Trade,Field Telesales,9,Hub-KAD-01,North West,Kaduna,Kaduna South,2280472.06,7/28/2021,TRUE
+CUST539,Port Harcourt Traditional Enterprises #440,Traditional General Trade,Field Telesales,12,Hub-PHC-01,South South,Rivers,Port Harcourt,1137758.76,3/15/2021,TRUE
+CUST540,Benin City Traditional Enterprises #441,Traditional General Trade,E-Commerce B2B,14,Hub-BEN-01,South South,Edo,Benin City,2174893.59,8/30/2021,TRUE
+CUST541,Victoria Island Traditional Enterprises #442,Traditional General Trade,E-Commerce B2B,2,Hub-LOS-02,South West,Lagos,Victoria Island,2178732.89,8/28/2022,TRUE
+CUST542,Abeokuta Modern Enterprises #443,Modern Retail Chain,Distributor Portal,5,Hub-ABK-01,South West,Ogun,Abeokuta,9094863.48,9/4/2022,TRUE
+CUST543,Warri Wholesale Enterprises #444,Wholesale Distributor,Distributor Portal,13,Hub-WAR-01,South South,Delta,Warri,5717666.53,2/6/2021,TRUE
+CUST544,Apapa Institutional Enterprises #445,Institutional / HoReCa,Distributor Portal,3,Hub-LOS-03,South West,Lagos,Apapa,1013230.53,10/6/2021,TRUE
+CUST545,Nassarawa Wholesale Enterprises #446,Wholesale Distributor,Direct Sales Force,8,Hub-KAN-01,North West,Kano,Nassarawa,11125212.85,8/19/2022,TRUE
+CUST546,Port Harcourt Key Enterprises #447,Key Account,E-Commerce B2B,12,Hub-PHC-01,South South,Rivers,Port Harcourt,24079661.43,11/6/2022,TRUE
+CUST547,Kaduna South Key Enterprises #448,Key Account,E-Commerce B2B,9,Hub-KAD-01,North West,Kaduna,Kaduna South,22382491.34,11/6/2022,TRUE
+CUST548,Benin City Wholesale Enterprises #449,Wholesale Distributor,Modern Trade EDI,14,Hub-BEN-01,South South,Edo,Benin City,13718500.86,6/30/2022,FALSE
+CUST549,Port Harcourt Traditional Enterprises #450,Traditional General Trade,Field Telesales,12,Hub-PHC-01,South South,Rivers,Port Harcourt,2944739.09,11/25/2022,TRUE
+CUST550,Port Harcourt Institutional Enterprises #451,Institutional / HoReCa,Direct Sales Force,12,Hub-PHC-01,South South,Rivers,Port Harcourt,1980349.79,4/27/2022,TRUE
+CUST551,Benin City Modern Enterprises #452,Modern Retail Chain,Field Telesales,14,Hub-BEN-01,South South,Edo,Benin City,2754208.58,11/3/2021,TRUE
+CUST552,Onitsha Traditional Enterprises #453,Traditional General Trade,Distributor Portal,10,Hub-ONI-01,South East,Anambra,Onitsha,986770.62,9/20/2021,TRUE
+CUST553,Apapa Wholesale Enterprises #454,Wholesale Distributor,Distributor Portal,3,Hub-LOS-03,South West,Lagos,Apapa,15174615.44,4/30/2021,TRUE
+CUST554,Independence Layout Institutional Enterprises #455,Institutional / HoReCa,Field Telesales,11,Hub-ENU-01,South East,Enugu,Independence Layout,3218659.39,11/13/2021,TRUE
+CUST555,Apapa Traditional Enterprises #456,Traditional General Trade,Distributor Portal,3,Hub-LOS-03,South West,Lagos,Apapa,2265476.64,4/6/2022,TRUE
+CUST556,Nassarawa Key Enterprises #457,Key Account,Field Telesales,8,Hub-KAN-01,North West,Kano,Nassarawa,15676084.63,1/26/2021,TRUE
+CUST557,Benin City Modern Enterprises #458,Modern Retail Chain,Distributor Portal,14,Hub-BEN-01,South South,Edo,Benin City,6852213.93,1/10/2021,TRUE
+CUST558,Ikeja Wholesale Enterprises #459,Wholesale Distributor,Modern Trade EDI,1,Hub-LOS-01,South West,Lagos,Ikeja,14369759.68,8/30/2022,TRUE
+CUST559,Ibadan Institutional Enterprises #460,Institutional / HoReCa,Modern Trade EDI,4,Hub-IBD-01,South West,Oyo,Ibadan,1288913.09,5/7/2021,TRUE
+CUST560,Nassarawa Modern Enterprises #461,Modern Retail Chain,Modern Trade EDI,8,Hub-KAN-01,North West,Kano,Nassarawa,11475018.59,3/21/2021,TRUE
+CUST561,Onitsha Traditional Enterprises #462,Traditional General Trade,E-Commerce B2B,10,Hub-ONI-01,South East,Anambra,Onitsha,1102762.54,1/19/2021,TRUE
+CUST562,Warri Traditional Enterprises #463,Traditional General Trade,Direct Sales Force,13,Hub-WAR-01,South South,Delta,Warri,2676878.07,3/26/2022,TRUE
+CUST563,Onitsha Traditional Enterprises #464,Traditional General Trade,Distributor Portal,10,Hub-ONI-01,South East,Anambra,Onitsha,384072.36,10/17/2021,TRUE
+CUST564,Gwagwalada Institutional Enterprises #465,Institutional / HoReCa,Field Telesales,7,Hub-ABJ-02,North Central,FCT Abuja,Gwagwalada,2062146.36,10/3/2021,TRUE
+CUST565,Ikeja Traditional Enterprises #466,Traditional General Trade,Distributor Portal,1,Hub-LOS-01,South West,Lagos,Ikeja,2264726.94,2/2/2022,TRUE
+CUST566,Port Harcourt Wholesale Enterprises #467,Wholesale Distributor,E-Commerce B2B,12,Hub-PHC-01,South South,Rivers,Port Harcourt,3085391.58,4/11/2021,TRUE
+CUST567,Warri Key Enterprises #468,Key Account,Field Telesales,13,Hub-WAR-01,South South,Delta,Warri,2587618.29,5/23/2021,TRUE
+CUST568,Warri Wholesale Enterprises #469,Wholesale Distributor,Distributor Portal,13,Hub-WAR-01,South South,Delta,Warri,11553344.87,5/27/2021,TRUE
+CUST569,Gwagwalada Institutional Enterprises #470,Institutional / HoReCa,Field Telesales,7,Hub-ABJ-02,North Central,FCT Abuja,Gwagwalada,654333.76,4/22/2022,TRUE
+CUST570,Independence Layout Key Enterprises #471,Key Account,E-Commerce B2B,11,Hub-ENU-01,South East,Enugu,Independence Layout,23706353.93,9/28/2021,TRUE
+CUST571,Wuse II Modern Enterprises #472,Modern Retail Chain,E-Commerce B2B,6,Hub-ABJ-01,North Central,FCT Abuja,Wuse II,6295828.78,5/3/2022,TRUE
+CUST572,Gwagwalada Wholesale Enterprises #473,Wholesale Distributor,Direct Sales Force,7,Hub-ABJ-02,North Central,FCT Abuja,Gwagwalada,7732425.9,12/4/2021,TRUE
+CUST573,Kaduna South Wholesale Enterprises #474,Wholesale Distributor,Distributor Portal,9,Hub-KAD-01,North West,Kaduna,Kaduna South,20933336.18,10/10/2022,TRUE
+CUST574,Abeokuta Wholesale Enterprises #475,Wholesale Distributor,Field Telesales,5,Hub-ABK-01,South West,Ogun,Abeokuta,6943346.17,4/9/2021,TRUE
+CUST575,Gwagwalada Traditional Enterprises #476,Traditional General Trade,E-Commerce B2B,7,Hub-ABJ-02,North Central,FCT Abuja,Gwagwalada,3101800.19,10/21/2022,TRUE
+CUST576,Abeokuta Institutional Enterprises #477,Institutional / HoReCa,Distributor Portal,5,Hub-ABK-01,South West,Ogun,Abeokuta,1623109.02,10/20/2022,TRUE
+CUST577,Nassarawa Wholesale Enterprises #478,Wholesale Distributor,Direct Sales Force,8,Hub-KAN-01,North West,Kano,Nassarawa,7929572.6,7/30/2021,TRUE
+CUST578,Kaduna South Institutional Enterprises #479,Institutional / HoReCa,Modern Trade EDI,9,Hub-KAD-01,North West,Kaduna,Kaduna South,1943170.81,2/1/2022,TRUE
+CUST579,Kaduna South Modern Enterprises #480,Modern Retail Chain,Field Telesales,9,Hub-KAD-01,North West,Kaduna,Kaduna South,10140826.71,6/2/2021,TRUE
+CUST580,Onitsha Traditional Enterprises #481,Traditional General Trade,Field Telesales,10,Hub-ONI-01,South East,Anambra,Onitsha,3054510.72,12/26/2022,TRUE
+CUST581,Kaduna South Institutional Enterprises #482,Institutional / HoReCa,Distributor Portal,9,Hub-KAD-01,North West,Kaduna,Kaduna South,2845936.94,6/17/2022,TRUE
+CUST582,Apapa Institutional Enterprises #483,Institutional / HoReCa,E-Commerce B2B,3,Hub-LOS-03,South West,Lagos,Apapa,2895225.97,5/10/2021,TRUE
+CUST583,Wuse II Modern Enterprises #484,Modern Retail Chain,E-Commerce B2B,6,Hub-ABJ-01,North Central,FCT Abuja,Wuse II,5641472.26,11/8/2022,TRUE
+CUST584,Nassarawa Wholesale Enterprises #485,Wholesale Distributor,Direct Sales Force,8,Hub-KAN-01,North West,Kano,Nassarawa,11422436.26,8/18/2021,TRUE
+CUST585,Port Harcourt Wholesale Enterprises #486,Wholesale Distributor,Direct Sales Force,12,Hub-PHC-01,South South,Rivers,Port Harcourt,20630881.63,12/25/2021,TRUE
+CUST586,Kaduna South Traditional Enterprises #487,Traditional General Trade,Direct Sales Force,9,Hub-KAD-01,North West,Kaduna,Kaduna South,2246416.01,10/12/2021,TRUE
+CUST587,Gwagwalada Modern Enterprises #488,Modern Retail Chain,Modern Trade EDI,7,Hub-ABJ-02,North Central,FCT Abuja,Gwagwalada,7610990.85,12/11/2021,TRUE
+CUST588,Victoria Island Traditional Enterprises #489,Traditional General Trade,Modern Trade EDI,2,Hub-LOS-02,South West,Lagos,Victoria Island,1359480.11,5/23/2022,TRUE
+CUST589,Independence Layout Traditional Enterprises #490,Traditional General Trade,Distributor Portal,11,Hub-ENU-01,South East,Enugu,Independence Layout,2143718,4/23/2021,TRUE
+CUST590,Independence Layout Wholesale Enterprises #491,Wholesale Distributor,Field Telesales,11,Hub-ENU-01,South East,Enugu,Independence Layout,8240304.76,6/26/2022,TRUE
+CUST591,Onitsha Institutional Enterprises #492,Institutional / HoReCa,Distributor Portal,10,Hub-ONI-01,South East,Anambra,Onitsha,3096150.08,10/6/2021,TRUE
+CUST592,Gwagwalada Wholesale Enterprises #493,Wholesale Distributor,E-Commerce B2B,7,Hub-ABJ-02,North Central,FCT Abuja,Gwagwalada,3223361.39,8/8/2022,TRUE
+CUST593,Port Harcourt Traditional Enterprises #494,Traditional General Trade,E-Commerce B2B,12,Hub-PHC-01,South South,Rivers,Port Harcourt,1981406.39,5/18/2022,TRUE
+CUST594,Independence Layout Traditional Enterprises #495,Traditional General Trade,E-Commerce B2B,11,Hub-ENU-01,South East,Enugu,Independence Layout,3150574.1,1/16/2021,TRUE
+CUST595,Gwagwalada Wholesale Enterprises #496,Wholesale Distributor,Modern Trade EDI,7,Hub-ABJ-02,North Central,FCT Abuja,Gwagwalada,24369872.71,4/15/2022,TRUE
+CUST596,Abeokuta Wholesale Enterprises #497,Wholesale Distributor,Distributor Portal,5,Hub-ABK-01,South West,Ogun,Abeokuta,7593944.66,1/22/2021,TRUE
+CUST597,Warri Institutional Enterprises #498,Institutional / HoReCa,Modern Trade EDI,13,Hub-WAR-01,South South,Delta,Warri,2058579.79,1/9/2021,TRUE
+CUST598,Warri Wholesale Enterprises #499,Wholesale Distributor,E-Commerce B2B,13,Hub-WAR-01,South South,Delta,Warri,6278604.56,5/3/2022,TRUE
+CUST599,Wuse II Traditional Enterprises #500,Traditional General Trade,Distributor Portal,6,Hub-ABJ-01,North Central,FCT Abuja,Wuse II,1528735.49,4/10/2021,TRUE
+CUST600,Warri Wholesale Enterprises #501,Wholesale Distributor,Direct Sales Force,13,Hub-WAR-01,South South,Delta,Warri,10017111.84,5/25/2021,TRUE
+CUST601,Nassarawa Modern Enterprises #502,Modern Retail Chain,Field Telesales,8,Hub-KAN-01,North West,Kano,Nassarawa,7061065.03,5/13/2021,TRUE
+CUST602,Victoria Island Key Enterprises #503,Key Account,Modern Trade EDI,2,Hub-LOS-02,South West,Lagos,Victoria Island,6437001.34,8/9/2021,TRUE
+CUST603,Port Harcourt Wholesale Enterprises #504,Wholesale Distributor,Modern Trade EDI,12,Hub-PHC-01,South South,Rivers,Port Harcourt,7141140.33,7/26/2022,TRUE
+CUST604,Independence Layout Key Enterprises #505,Key Account,Modern Trade EDI,11,Hub-ENU-01,South East,Enugu,Independence Layout,18790275.67,11/22/2022,TRUE
+CUST605,Ibadan Key Enterprises #506,Key Account,Modern Trade EDI,4,Hub-IBD-01,South West,Oyo,Ibadan,20444137.09,10/6/2022,TRUE
+CUST606,Nassarawa Traditional Enterprises #507,Traditional General Trade,Field Telesales,8,Hub-KAN-01,North West,Kano,Nassarawa,2371558.48,2/18/2022,TRUE
+CUST607,Nassarawa Key Enterprises #508,Key Account,Modern Trade EDI,8,Hub-KAN-01,North West,Kano,Nassarawa,4130236.91,8/19/2021,TRUE
+CUST608,Nassarawa Traditional Enterprises #509,Traditional General Trade,Modern Trade EDI,8,Hub-KAN-01,North West,Kano,Nassarawa,3470750.81,2/10/2021,TRUE
+CUST609,Port Harcourt Traditional Enterprises #510,Traditional General Trade,Distributor Portal,12,Hub-PHC-01,South South,Rivers,Port Harcourt,408844.97,10/10/2022,TRUE
+CUST610,Kaduna South Traditional Enterprises #511,Traditional General Trade,Distributor Portal,9,Hub-KAD-01,North West,Kaduna,Kaduna South,1094162.32,2/9/2022,TRUE
+CUST611,Nassarawa Key Enterprises #512,Key Account,Field Telesales,8,Hub-KAN-01,North West,Kano,Nassarawa,16850275.9,3/17/2021,TRUE
+CUST612,Abeokuta Traditional Enterprises #513,Traditional General Trade,Distributor Portal,5,Hub-ABK-01,South West,Ogun,Abeokuta,2002296.95,6/24/2021,TRUE
+CUST613,Onitsha Modern Enterprises #514,Modern Retail Chain,Modern Trade EDI,10,Hub-ONI-01,South East,Anambra,Onitsha,2288963.78,9/3/2022,TRUE
+CUST614,Ibadan Traditional Enterprises #515,Traditional General Trade,E-Commerce B2B,4,Hub-IBD-01,South West,Oyo,Ibadan,2286989.71,3/1/2021,TRUE
+CUST615,Kaduna South Traditional Enterprises #516,Traditional General Trade,Field Telesales,9,Hub-KAD-01,North West,Kaduna,Kaduna South,3494242.56,7/17/2022,TRUE
+CUST616,Kaduna South Traditional Enterprises #517,Traditional General Trade,Direct Sales Force,9,Hub-KAD-01,North West,Kaduna,Kaduna South,1045486.39,3/20/2022,TRUE
+CUST617,Victoria Island Traditional Enterprises #518,Traditional General Trade,Field Telesales,2,Hub-LOS-02,South West,Lagos,Victoria Island,788697.08,5/15/2021,TRUE
+CUST618,Apapa Traditional Enterprises #519,Traditional General Trade,E-Commerce B2B,3,Hub-LOS-03,South West,Lagos,Apapa,341949.99,11/2/2021,TRUE
+CUST619,Ikeja Wholesale Enterprises #520,Wholesale Distributor,Field Telesales,1,Hub-LOS-01,South West,Lagos,Ikeja,12278593.95,3/12/2022,TRUE
+CUST620,Independence Layout Traditional Enterprises #521,Traditional General Trade,Distributor Portal,11,Hub-ENU-01,South East,Enugu,Independence Layout,3356546.74,3/22/2022,TRUE
+CUST621,Ikeja Traditional Enterprises #522,Traditional General Trade,Direct Sales Force,1,Hub-LOS-01,South West,Lagos,Ikeja,964978.68,12/6/2021,TRUE
+CUST622,Nassarawa Wholesale Enterprises #523,Wholesale Distributor,Field Telesales,8,Hub-KAN-01,North West,Kano,Nassarawa,12912976.1,9/21/2022,TRUE
+CUST623,Gwagwalada Traditional Enterprises #524,Traditional General Trade,Distributor Portal,7,Hub-ABJ-02,North Central,FCT Abuja,Gwagwalada,2361939.12,4/15/2022,TRUE
+CUST624,Nassarawa Key Enterprises #525,Key Account,Distributor Portal,8,Hub-KAN-01,North West,Kano,Nassarawa,12242459.84,5/19/2021,TRUE
+CUST625,Port Harcourt Wholesale Enterprises #526,Wholesale Distributor,Field Telesales,12,Hub-PHC-01,South South,Rivers,Port Harcourt,15725993.42,6/2/2021,TRUE
+CUST626,Kaduna South Traditional Enterprises #527,Traditional General Trade,Direct Sales Force,9,Hub-KAD-01,North West,Kaduna,Kaduna South,1485765.65,6/9/2022,TRUE
+CUST627,Wuse II Traditional Enterprises #528,Traditional General Trade,Modern Trade EDI,6,Hub-ABJ-01,North Central,FCT Abuja,Wuse II,2713617.69,8/23/2021,TRUE
+CUST628,Gwagwalada Modern Enterprises #529,Modern Retail Chain,Field Telesales,7,Hub-ABJ-02,North Central,FCT Abuja,Gwagwalada,6307922.38,5/26/2021,TRUE
+CUST629,Independence Layout Traditional Enterprises #530,Traditional General Trade,Distributor Portal,11,Hub-ENU-01,South East,Enugu,Independence Layout,588813.2,8/20/2021,TRUE
+CUST630,Port Harcourt Modern Enterprises #531,Modern Retail Chain,Direct Sales Force,12,Hub-PHC-01,South South,Rivers,Port Harcourt,11272467.4,4/21/2022,FALSE
+CUST631,Nassarawa Traditional Enterprises #532,Traditional General Trade,E-Commerce B2B,8,Hub-KAN-01,North West,Kano,Nassarawa,315848.67,12/1/2021,TRUE
+CUST632,Warri Wholesale Enterprises #533,Wholesale Distributor,Direct Sales Force,13,Hub-WAR-01,South South,Delta,Warri,11529392.55,3/29/2021,TRUE
+CUST633,Ibadan Key Enterprises #534,Key Account,Direct Sales Force,4,Hub-IBD-01,South West,Oyo,Ibadan,4605243.68,4/29/2021,TRUE
+CUST634,Abeokuta Traditional Enterprises #535,Traditional General Trade,Distributor Portal,5,Hub-ABK-01,South West,Ogun,Abeokuta,328745.4,8/30/2021,TRUE
+CUST635,Ibadan Key Enterprises #536,Key Account,Field Telesales,4,Hub-IBD-01,South West,Oyo,Ibadan,5797303.6,4/3/2021,TRUE
+CUST636,Nassarawa Traditional Enterprises #537,Traditional General Trade,Field Telesales,8,Hub-KAN-01,North West,Kano,Nassarawa,537426,2/2/2022,TRUE
+CUST637,Benin City Wholesale Enterprises #538,Wholesale Distributor,E-Commerce B2B,14,Hub-BEN-01,South South,Edo,Benin City,11951880.22,3/31/2022,TRUE
+CUST638,Gwagwalada Wholesale Enterprises #539,Wholesale Distributor,E-Commerce B2B,7,Hub-ABJ-02,North Central,FCT Abuja,Gwagwalada,11030313.87,11/9/2021,TRUE
+CUST639,Benin City Institutional Enterprises #540,Institutional / HoReCa,Modern Trade EDI,14,Hub-BEN-01,South South,Edo,Benin City,3249309.18,2/12/2021,TRUE
+CUST640,Kaduna South Wholesale Enterprises #541,Wholesale Distributor,Field Telesales,9,Hub-KAD-01,North West,Kaduna,Kaduna South,17654058.58,1/13/2022,TRUE
+CUST641,Nassarawa Wholesale Enterprises #542,Wholesale Distributor,E-Commerce B2B,8,Hub-KAN-01,North West,Kano,Nassarawa,21723837.8,6/28/2021,FALSE
+CUST642,Ibadan Institutional Enterprises #543,Institutional / HoReCa,Field Telesales,4,Hub-IBD-01,South West,Oyo,Ibadan,773398.47,2/9/2022,TRUE
+CUST643,Ikeja Key Enterprises #544,Key Account,Direct Sales Force,1,Hub-LOS-01,South West,Lagos,Ikeja,17890002.33,3/7/2022,TRUE
+CUST644,Gwagwalada Traditional Enterprises #545,Traditional General Trade,Distributor Portal,7,Hub-ABJ-02,North Central,FCT Abuja,Gwagwalada,924820.81,1/11/2022,TRUE
+CUST645,Kaduna South Institutional Enterprises #546,Institutional / HoReCa,E-Commerce B2B,9,Hub-KAD-01,North West,Kaduna,Kaduna South,1783322.4,5/2/2022,TRUE
+CUST646,Onitsha Wholesale Enterprises #547,Wholesale Distributor,Direct Sales Force,10,Hub-ONI-01,South East,Anambra,Onitsha,24699083.14,4/25/2022,TRUE
+CUST647,Ikeja Traditional Enterprises #548,Traditional General Trade,E-Commerce B2B,1,Hub-LOS-01,South West,Lagos,Ikeja,1171703.74,5/4/2021,TRUE
+CUST648,Victoria Island Traditional Enterprises #549,Traditional General Trade,Distributor Portal,2,Hub-LOS-02,South West,Lagos,Victoria Island,3094707.07,1/16/2021,TRUE
+CUST649,Benin City Traditional Enterprises #550,Traditional General Trade,Direct Sales Force,14,Hub-BEN-01,South South,Edo,Benin City,3218488.6,4/19/2021,TRUE
+CUST650,Apapa Wholesale Enterprises #551,Wholesale Distributor,Distributor Portal,3,Hub-LOS-03,South West,Lagos,Apapa,8078807.31,1/18/2022,TRUE
+CUST651,Ikeja Traditional Enterprises #552,Traditional General Trade,Field Telesales,1,Hub-LOS-01,South West,Lagos,Ikeja,577474.94,12/9/2022,TRUE
+CUST652,Victoria Island Traditional Enterprises #553,Traditional General Trade,Distributor Portal,2,Hub-LOS-02,South West,Lagos,Victoria Island,1171263.04,9/5/2021,TRUE
+CUST653,Abeokuta Wholesale Enterprises #554,Wholesale Distributor,Distributor Portal,5,Hub-ABK-01,South West,Ogun,Abeokuta,17143275.96,12/9/2021,TRUE
+CUST654,Ibadan Modern Enterprises #555,Modern Retail Chain,E-Commerce B2B,4,Hub-IBD-01,South West,Oyo,Ibadan,8366007.02,10/20/2021,TRUE
+CUST655,Port Harcourt Traditional Enterprises #556,Traditional General Trade,Field Telesales,12,Hub-PHC-01,South South,Rivers,Port Harcourt,2244217.66,10/1/2022,TRUE
+CUST656,Independence Layout Traditional Enterprises #557,Traditional General Trade,Direct Sales Force,11,Hub-ENU-01,South East,Enugu,Independence Layout,1034203.72,5/21/2021,TRUE
+CUST657,Ikeja Traditional Enterprises #558,Traditional General Trade,E-Commerce B2B,1,Hub-LOS-01,South West,Lagos,Ikeja,2233823.79,4/28/2021,TRUE
+CUST658,Warri Wholesale Enterprises #559,Wholesale Distributor,E-Commerce B2B,13,Hub-WAR-01,South South,Delta,Warri,15167742.1,10/30/2022,TRUE
+CUST659,Nassarawa Traditional Enterprises #560,Traditional General Trade,Direct Sales Force,8,Hub-KAN-01,North West,Kano,Nassarawa,3432540.53,6/3/2021,TRUE
+CUST660,Kaduna South Traditional Enterprises #561,Traditional General Trade,E-Commerce B2B,9,Hub-KAD-01,North West,Kaduna,Kaduna South,2673443.75,12/8/2021,TRUE
+CUST661,Ibadan Traditional Enterprises #562,Traditional General Trade,Field Telesales,4,Hub-IBD-01,South West,Oyo,Ibadan,609938.53,3/7/2022,TRUE
+CUST662,Independence Layout Wholesale Enterprises #563,Wholesale Distributor,Field Telesales,11,Hub-ENU-01,South East,Enugu,Independence Layout,19646642.97,8/20/2021,TRUE
+CUST663,Warri Wholesale Enterprises #564,Wholesale Distributor,E-Commerce B2B,13,Hub-WAR-01,South South,Delta,Warri,23833322.9,6/2/2022,TRUE
+CUST664,Kaduna South Wholesale Enterprises #565,Wholesale Distributor,Distributor Portal,9,Hub-KAD-01,North West,Kaduna,Kaduna South,19202484.73,10/18/2021,TRUE
+CUST665,Wuse II Traditional Enterprises #566,Traditional General Trade,Direct Sales Force,6,Hub-ABJ-01,North Central,FCT Abuja,Wuse II,709190.12,8/18/2021,TRUE
+CUST666,Port Harcourt Traditional Enterprises #567,Traditional General Trade,E-Commerce B2B,12,Hub-PHC-01,South South,Rivers,Port Harcourt,2817194.44,4/13/2022,TRUE
+CUST667,Wuse II Wholesale Enterprises #568,Wholesale Distributor,Distributor Portal,6,Hub-ABJ-01,North Central,FCT Abuja,Wuse II,24670702.65,6/17/2021,TRUE
+CUST668,Independence Layout Key Enterprises #569,Key Account,Field Telesales,11,Hub-ENU-01,South East,Enugu,Independence Layout,16799679.09,8/9/2021,TRUE
+CUST669,Apapa Institutional Enterprises #570,Institutional / HoReCa,Field Telesales,3,Hub-LOS-03,South West,Lagos,Apapa,1703998.24,7/13/2022,TRUE
+CUST670,Apapa Modern Enterprises #571,Modern Retail Chain,E-Commerce B2B,3,Hub-LOS-03,South West,Lagos,Apapa,11145978.46,8/18/2021,TRUE
+CUST671,Kaduna South Institutional Enterprises #572,Institutional / HoReCa,Modern Trade EDI,9,Hub-KAD-01,North West,Kaduna,Kaduna South,2357456.55,3/13/2021,TRUE
+CUST672,Kaduna South Modern Enterprises #573,Modern Retail Chain,Field Telesales,9,Hub-KAD-01,North West,Kaduna,Kaduna South,3092468.94,12/3/2021,TRUE
+CUST673,Kaduna South Wholesale Enterprises #574,Wholesale Distributor,Distributor Portal,9,Hub-KAD-01,North West,Kaduna,Kaduna South,12442774.16,3/13/2022,TRUE
+CUST674,Apapa Modern Enterprises #575,Modern Retail Chain,E-Commerce B2B,3,Hub-LOS-03,South West,Lagos,Apapa,5801861.3,2/21/2021,TRUE
+CUST675,Gwagwalada Traditional Enterprises #576,Traditional General Trade,Direct Sales Force,7,Hub-ABJ-02,North Central,FCT Abuja,Gwagwalada,302835.61,11/24/2021,TRUE
+CUST676,Ikeja Traditional Enterprises #577,Traditional General Trade,E-Commerce B2B,1,Hub-LOS-01,South West,Lagos,Ikeja,3197123.57,3/12/2021,TRUE
+CUST677,Warri Traditional Enterprises #578,Traditional General Trade,Direct Sales Force,13,Hub-WAR-01,South South,Delta,Warri,1118723.92,3/21/2022,TRUE
+CUST678,Ibadan Traditional Enterprises #579,Traditional General Trade,Direct Sales Force,4,Hub-IBD-01,South West,Oyo,Ibadan,2723097.18,8/9/2021,TRUE
+CUST679,Independence Layout Wholesale Enterprises #580,Wholesale Distributor,Modern Trade EDI,11,Hub-ENU-01,South East,Enugu,Independence Layout,14803302.86,11/28/2021,TRUE
+CUST680,Wuse II Institutional Enterprises #581,Institutional / HoReCa,E-Commerce B2B,6,Hub-ABJ-01,North Central,FCT Abuja,Wuse II,3384888.91,5/10/2021,TRUE
+CUST681,Port Harcourt Key Enterprises #582,Key Account,Distributor Portal,12,Hub-PHC-01,South South,Rivers,Port Harcourt,11281213.19,3/3/2021,TRUE
+CUST682,Apapa Institutional Enterprises #583,Institutional / HoReCa,Direct Sales Force,3,Hub-LOS-03,South West,Lagos,Apapa,3367982.64,6/11/2021,TRUE
+CUST683,Apapa Traditional Enterprises #584,Traditional General Trade,Direct Sales Force,3,Hub-LOS-03,South West,Lagos,Apapa,1327291.55,5/9/2022,TRUE
+CUST684,Gwagwalada Institutional Enterprises #585,Institutional / HoReCa,Direct Sales Force,7,Hub-ABJ-02,North Central,FCT Abuja,Gwagwalada,1079356.16,7/25/2021,TRUE
+CUST685,Abeokuta Traditional Enterprises #586,Traditional General Trade,Direct Sales Force,5,Hub-ABK-01,South West,Ogun,Abeokuta,2305450.26,11/26/2021,TRUE
+CUST686,Independence Layout Wholesale Enterprises #587,Wholesale Distributor,Field Telesales,11,Hub-ENU-01,South East,Enugu,Independence Layout,6149048.54,12/30/2022,TRUE
+CUST687,Ibadan Wholesale Enterprises #588,Wholesale Distributor,Field Telesales,4,Hub-IBD-01,South West,Oyo,Ibadan,6784438.85,11/28/2021,TRUE
+CUST688,Ibadan Wholesale Enterprises #589,Wholesale Distributor,Modern Trade EDI,4,Hub-IBD-01,South West,Oyo,Ibadan,23738810.33,4/1/2022,TRUE
+CUST689,Onitsha Institutional Enterprises #590,Institutional / HoReCa,Modern Trade EDI,10,Hub-ONI-01,South East,Anambra,Onitsha,389612.29,3/13/2021,TRUE
+CUST690,Nassarawa Traditional Enterprises #591,Traditional General Trade,Field Telesales,8,Hub-KAN-01,North West,Kano,Nassarawa,2774947.93,2/15/2022,TRUE
+CUST691,Ikeja Wholesale Enterprises #592,Wholesale Distributor,Modern Trade EDI,1,Hub-LOS-01,South West,Lagos,Ikeja,24910354.49,5/7/2021,TRUE
+CUST692,Ibadan Traditional Enterprises #593,Traditional General Trade,E-Commerce B2B,4,Hub-IBD-01,South West,Oyo,Ibadan,2563080.64,1/25/2021,TRUE
+CUST693,Independence Layout Wholesale Enterprises #594,Wholesale Distributor,Distributor Portal,11,Hub-ENU-01,South East,Enugu,Independence Layout,15966891,1/1/2021,TRUE
+CUST694,Port Harcourt Wholesale Enterprises #595,Wholesale Distributor,Direct Sales Force,12,Hub-PHC-01,South South,Rivers,Port Harcourt,4080250.84,12/19/2021,TRUE
+CUST695,Abeokuta Institutional Enterprises #596,Institutional / HoReCa,Modern Trade EDI,5,Hub-ABK-01,South West,Ogun,Abeokuta,3442249.77,8/16/2021,TRUE
+CUST696,Benin City Traditional Enterprises #597,Traditional General Trade,Direct Sales Force,14,Hub-BEN-01,South South,Edo,Benin City,2494602.99,2/26/2021,TRUE
+CUST697,Kaduna South Wholesale Enterprises #598,Wholesale Distributor,Modern Trade EDI,9,Hub-KAD-01,North West,Kaduna,Kaduna South,16093019.62,2/25/2021,TRUE
+CUST698,Onitsha Traditional Enterprises #599,Traditional General Trade,Field Telesales,10,Hub-ONI-01,South East,Anambra,Onitsha,2453537.55,2/13/2022,TRUE
+CUST699,Benin City Traditional Enterprises #600,Traditional General Trade,Field Telesales,14,Hub-BEN-01,South South,Edo,Benin City,264181.77,9/24/2021,TRUE
