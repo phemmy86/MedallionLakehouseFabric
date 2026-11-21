@@ -1,31 +1,33 @@
+
 [
-    {
-        "source_url" : "refs/heads/main/ShoppingMart_StructuredData/Sales_Data.csv",
-        "sink_folder" : "ShoppingMart_Bronze_Sales_Data.csv",
-        "sink_file" : "ShoppingMart_Sales_Data.csv"
-    },
-    {
-         "source_url" : "refs/heads/main/ShoppingMart_StructuredData/customers.csv",
-        "sink_folder" : "ShoppingMart_Bronze_Customers",
-        "sink_file" : "ShoppingMart_customers.csv"
-    },
-    {
-        "source_url" : "refs/heads/main/ShoppingMart_StructuredData/products.csv",
-        "sink_folder" : "ShoppingMart_Bronze_Products",
-        "sink_file" : "ShoppingMart_products.csv"
-    },
-    {
-        "source_url" : "refs/heads/main/ShoppingMart_StructuredData/FactFinance.csv",
-        "sink_folder" : "ShoppingMart_Bronze_FactFinance.csv",
-        "sink_file" : "ShoppingMart_FactFinance.csv"
-    },
-    {
-        "source_url" : "refs/heads/main/ShoppingMart_StructuredData/FactInventory.csv",
-        "sink_folder" : "ShoppingMart_Bronze_FactInventory.csv",
-        "sink_file" : "ShoppingMart_FactInventory.csv"
-    },
-    {    
-        "source_url" : "refs/heads/main/ShoppingMart_StructuredData/Inventory.csv",
-        "sink_folder" : "ShoppingMart_Bronze_Inventory.csv",
-        "sink_file" : "ShoppingMart_Inventory.csv"
+  {
+    "source_url": "phemmy86/MedallionLakehouseFabric/refs/heads/main/ShoppingMart_StructuredData/Sales_Data.csv",
+    "sink_folder": "ShoppingMart_Bronze/Sales_Data",
+    "sink_file": "ShoppingMart_Sales_Data.csv"
+  },
+  {
+    "source_url": "phemmy86/MedallionLakehouseFabric/refs/heads/main/ShoppingMart_StructuredData/customers.csv",
+    "sink_folder": "ShoppingMart_Bronze/Customers",
+    "sink_file": "ShoppingMart_Customers.csv"
+  },
+  {
+    "source_url": "phemmy86/MedallionLakehouseFabric/refs/heads/main/ShoppingMart_StructuredData/products.csv",
+    "sink_folder": "ShoppingMart_Bronze/Products",
+    "sink_file": "ShoppingMart_Products.csv"
+  },
+  {
+    "source_url": "phemmy86/MedallionLakehouseFabric/refs/heads/main/ShoppingMart_StructuredData/FactFinance.csv",
+    "sink_folder": "ShoppingMart_Bronze/FactFinance",
+    "sink_file": "ShoppingMart_FactFinance.csv"
+  },
+  {
+    "source_url": "phemmy86/MedallionLakehouseFabric/refs/heads/main/ShoppingMart_StructuredData/FactInventory.csv",
+    "sink_folder": "ShoppingMart_Bronze/FactInventory",
+    "sink_file": "ShoppingMart_FactInventory.csv"
+  },
+  {
+    "source_url": "phemmy86/MedallionLakehouseFabric/refs/heads/main/ShoppingMart_StructuredData/Inventory.csv",
+    "sink_folder": "ShoppingMart_Bronze/Inventory",
+    "sink_file": "ShoppingMart_Inventory.csv"
+  }
 ]
