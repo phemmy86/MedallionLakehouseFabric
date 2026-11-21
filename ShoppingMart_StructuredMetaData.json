@@ -1,19 +1,31 @@
 [
     {
-        "source_url" : "refs/heads/main/ShoppingMart_StructuredData/Orders_Data.csv",
-        "sink_folder" : "ShoppingMart_Bronze_Orders",
-        "sink_file" : "ShoppingMart_orders.csv"
+        "source_url" : "refs/heads/main/ShoppingMart_StructuredData/Sales_Data.csv",
+        "sink_folder" : "ShoppingMart_Bronze_Sales_Data.csv",
+        "sink_file" : "ShoppingMart_Sales_Data.csv"
     },
     {
          "source_url" : "refs/heads/main/ShoppingMart_StructuredData/customers.csv",
         "sink_folder" : "ShoppingMart_Bronze_Customers",
         "sink_file" : "ShoppingMart_customers.csv"
-
     },
     {
         "source_url" : "refs/heads/main/ShoppingMart_StructuredData/products.csv",
         "sink_folder" : "ShoppingMart_Bronze_Products",
         "sink_file" : "ShoppingMart_products.csv"
-
-    }
+    },
+    {
+        "source_url" : "refs/heads/main/ShoppingMart_StructuredData/FactFinance.csv",
+        "sink_folder" : "ShoppingMart_Bronze_FactFinance.csv",
+        "sink_file" : "ShoppingMart_FactFinance.csv"
+    },
+    {
+        "source_url" : "refs/heads/main/ShoppingMart_StructuredData/FactInventory.csv",
+        "sink_folder" : "ShoppingMart_Bronze_FactInventory.csv",
+        "sink_file" : "ShoppingMart_FactInventory.csv"
+    },
+    {    
+        "source_url" : "refs/heads/main/ShoppingMart_StructuredData/Inventory.csv",
+        "sink_folder" : "ShoppingMart_Bronze_Inventory.csv",
+        "sink_file" : "ShoppingMart_Inventory.csv"
 ]
